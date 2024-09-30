@@ -1,0 +1,59 @@
+Received December 9, 2020, accepted January 9, 2021, date of publication January 19, 2021, date of current version February 22, 2021.
+Digital Object Identifier 10.1109/ACCESS.2021.3052867
+Lightweight Cryptography Algorithms for
+Resource-Constrained IoT Devices: A Review,
+Comparison and Research Opportunities
+VISHAL A. THAKOR1, MOHAMMAD ABDUR RAZZAQUE
+1, (Member, IEEE),
+AND MUHAMMAD R. A. KHANDAKER
+2, (Senior Member, IEEE)
+1School of Computing, Engineering, and Digital Technologies, Teesside University, Middlesbrough TS1 3BX, U.K.
+2School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh EH14 4AS, U.K.
+Corresponding author: Mohammad Abdur Razzaque (m.razzaque@tees.ac.uk)
+This research was partially funded by the Newton Fund - Institutional Links from British Council and National Research Council of
+Thailand with the grant ID is 527643161.
+ABSTRACT IoT is becoming more common and popular due to its wide range of applications in various
+domains. They collect data from the real environment and transfer it over the networks. There are many
+challenges while deploying IoT in a real-world, varying from tiny sensors to servers. Security is considered
+as the number one challenge in IoT deployments, as most of the IoT devices are physically accessible in
+the real world and many of them are limited in resources (such as energy, memory, processing power and
+even physical space). In this paper, we are focusing on these resource-constrained IoT devices (such as
+RFID tags, sensors, smart cards, etc.) as securing them in such circumstances is a challenging task. The
+communication from such devices can be secured by a mean of lightweight cryptography, a lighter version
+of cryptography. More than ﬁfty lightweight cryptography (plain encryption) algorithms are available in
+the market with a focus on a speciﬁc application(s), and another 57 algorithms have been submitted by the
+researchers to the NIST competition recently. To provide a holistic view of the area, in this paper, we have
+compared the existing algorithms in terms of implementation cost, hardware and software performances and
+attack resistance properties. Also, we have discussed the demand and a direction for new research in the area
+of lightweight cryptography to optimize balance amongst cost, performance and security.
+INDEX TERMS IoT, lightweight, cryptography, sensors, RFID, smart cards.
+I. INTRODUCTION
+A. IoT OVERVIEW
+Internet of Things (IoT) has already become a dominant
+research era because of its applications in various domains
+such as smart transport & logistics, smart healthcare, smart
+environment, smart infrastructure (smart cities, smart homes,
+smart ofﬁces, smart malls, Industry 4.0), smart agriculture
+and many more. Many researchers and industry experts have
+given various deﬁnitions of IoT depending on their applica-
+tions and implementation area, but in simple words, IoT is
+a network of connected things, each with a unique identiﬁ-
+cation, able to collect and exchange data over the Internet
+with or without human interaction [1]–[5]. In any IoT solution
+or application, IoT devices are the key elements. These IoT
+devices could be divided into two main categories (Figure 1):
+The associate editor coordinating the review of this manuscript and
+approving it for publication was Kim-Kwang Raymond Choo
+.
+FIGURE 1. Two main categories of IoT Devices.
+rich in resources such as servers, personal computers, tablets
+and smartphones, etc. and limited in resources (resource-
+constrained) such as industrial sensors or sensor nodes, RFID
+tags, actuators, etc., [6]. In this paper, we focus on the second
+category of IoT devices. These connected devices are becom-
+ing more popular due to their use in various application and
+will ﬂood the market with the emergence of IoT [6], leading
+an enormous data exchange rate amongst [7].
+VOLUME 9, 2021
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+28177
