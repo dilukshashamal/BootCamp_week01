@@ -1,0 +1,927 @@
+{
+    "page_num": 17,
+    "text": [
+        {
+            "text": "IEEEAccess",
+            "confidence": 0.9717674255371094,
+            "box": [
+                [
+                    637.0,
+                    20.0
+                ],
+                [
+                    747.0,
+                    23.0
+                ],
+                [
+                    746.0,
+                    46.0
+                ],
+                [
+                    636.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "V. A. Thakor et al.: Lightweight Cryptography Algorithms for Resource-Constrained loT Devices",
+            "confidence": 0.9730965495109558,
+            "box": [
+                [
+                    50.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    48.0
+                ],
+                [
+                    50.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHAL A. THAKOR is currently pursuing",
+            "confidence": 0.9516381621360779,
+            "box": [
+                [
+                    160.0,
+                    88.0
+                ],
+                [
+                    388.0,
+                    90.0
+                ],
+                [
+                    387.0,
+                    105.0
+                ],
+                [
+                    160.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "MUHAMMAD R.A.KHANDAKER (Scnior",
+            "confidence": 0.9604945778846741,
+            "box": [
+                [
+                    526.0,
+                    92.0
+                ],
+                [
+                    748.0,
+                    92.0
+                ],
+                [
+                    748.0,
+                    103.0
+                ],
+                [
+                    526.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "the Ph.D. degree in lightweight cryptography",
+            "confidence": 0.9806098341941833,
+            "box": [
+                [
+                    162.0,
+                    107.0
+                ],
+                [
+                    386.0,
+                    107.0
+                ],
+                [
+                    386.0,
+                    118.0
+                ],
+                [
+                    162.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "Member, IEEE) received the Ph.D. degree",
+            "confidence": 0.9473176598548889,
+            "box": [
+                [
+                    525.0,
+                    104.0
+                ],
+                [
+                    750.0,
+                    104.0
+                ],
+                [
+                    750.0,
+                    119.0
+                ],
+                [
+                    525.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "to improve security in resource-constrained IoT",
+            "confidence": 0.9927816987037659,
+            "box": [
+                [
+                    162.0,
+                    119.0
+                ],
+                [
+                    385.0,
+                    119.0
+                ],
+                [
+                    385.0,
+                    130.0
+                ],
+                [
+                    162.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "from Curtin University, Perth, WA, Australia.",
+            "confidence": 0.9864835143089294,
+            "box": [
+                [
+                    525.0,
+                    118.0
+                ],
+                [
+                    749.0,
+                    118.0
+                ],
+                [
+                    749.0,
+                    133.0
+                ],
+                [
+                    525.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "devices from Teesside University, U.K. He is also",
+            "confidence": 0.9897483587265015,
+            "box": [
+                [
+                    164.0,
+                    133.0
+                ],
+                [
+                    386.0,
+                    133.0
+                ],
+                [
+                    386.0,
+                    144.0
+                ],
+                [
+                    164.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "He worked as a Postdoctoral Research Fellow with",
+            "confidence": 0.9982607960700989,
+            "box": [
+                [
+                    526.0,
+                    133.0
+                ],
+                [
+                    748.0,
+                    133.0
+                ],
+                [
+                    748.0,
+                    144.0
+                ],
+                [
+                    526.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "working as a part-time Lecturer with Teesside",
+            "confidence": 0.9754736423492432,
+            "box": [
+                [
+                    164.0,
+                    146.0
+                ],
+                [
+                    385.0,
+                    146.0
+                ],
+                [
+                    385.0,
+                    158.0
+                ],
+                [
+                    164.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "University College London, U.K., in July 2013 to",
+            "confidence": 0.9993141293525696,
+            "box": [
+                [
+                    525.0,
+                    146.0
+                ],
+                [
+                    748.0,
+                    146.0
+                ],
+                [
+                    748.0,
+                    158.0
+                ],
+                [
+                    525.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "University. He is having more than ten years",
+            "confidence": 0.9930657744407654,
+            "box": [
+                [
+                    161.0,
+                    156.0
+                ],
+                [
+                    385.0,
+                    159.0
+                ],
+                [
+                    385.0,
+                    173.0
+                ],
+                [
+                    161.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "June 2018. He is currently an Assistant Professor",
+            "confidence": 0.9868078231811523,
+            "box": [
+                [
+                    525.0,
+                    158.0
+                ],
+                [
+                    749.0,
+                    158.0
+                ],
+                [
+                    749.0,
+                    172.0
+                ],
+                [
+                    525.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "of teaching and around more than two years of",
+            "confidence": 0.9994121789932251,
+            "box": [
+                [
+                    162.0,
+                    172.0
+                ],
+                [
+                    386.0,
+                    172.0
+                ],
+                [
+                    386.0,
+                    184.0
+                ],
+                [
+                    162.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "with the School of Engineering and Physical Sci-",
+            "confidence": 0.9952896237373352,
+            "box": [
+                [
+                    526.0,
+                    172.0
+                ],
+                [
+                    748.0,
+                    172.0
+                ],
+                [
+                    748.0,
+                    184.0
+                ],
+                [
+                    526.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "industrial experience. Along with his passion to",
+            "confidence": 0.9967019557952881,
+            "box": [
+                [
+                    162.0,
+                    184.0
+                ],
+                [
+                    388.0,
+                    184.0
+                ],
+                [
+                    388.0,
+                    198.0
+                ],
+                [
+                    162.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "ences, Heriot-Watt University. He is an Associate",
+            "confidence": 0.9951430559158325,
+            "box": [
+                [
+                    526.0,
+                    184.0
+                ],
+                [
+                    750.0,
+                    184.0
+                ],
+                [
+                    750.0,
+                    198.0
+                ],
+                [
+                    526.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "teach, he loves coding using C/C++, VB, C#,",
+            "confidence": 0.998561441898346,
+            "box": [
+                [
+                    161.0,
+                    197.0
+                ],
+                [
+                    388.0,
+                    197.0
+                ],
+                [
+                    388.0,
+                    212.0
+                ],
+                [
+                    161.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "Editor of the IEEEWIRELESS COMMUNICATIONS",
+            "confidence": 0.9872561097145081,
+            "box": [
+                [
+                    525.0,
+                    197.0
+                ],
+                [
+                    749.0,
+                    197.0
+                ],
+                [
+                    749.0,
+                    212.0
+                ],
+                [
+                    525.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "and Python. His areas of research interests include",
+            "confidence": 0.9960311651229858,
+            "box": [
+                [
+                    165.0,
+                    212.0
+                ],
+                [
+                    385.0,
+                    212.0
+                ],
+                [
+                    385.0,
+                    223.0
+                ],
+                [
+                    165.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "LETTERS,  IEEE COMMUNICATIONS LETTERS, and",
+            "confidence": 0.9498969316482544,
+            "box": [
+                [
+                    525.0,
+                    211.0
+                ],
+                [
+                    750.0,
+                    211.0
+                ],
+                [
+                    750.0,
+                    226.0
+                ],
+                [
+                    525.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "information security, cyber security, computer networks, algorithm design,",
+            "confidence": 0.999076247215271,
+            "box": [
+                [
+                    48.0,
+                    222.0
+                ],
+                [
+                    386.0,
+                    224.0
+                ],
+                [
+                    386.0,
+                    239.0
+                ],
+                [
+                    48.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "IEEE ACCESS.",
+            "confidence": 0.9813628792762756,
+            "box": [
+                [
+                    526.0,
+                    224.0
+                ],
+                [
+                    588.0,
+                    224.0
+                ],
+                [
+                    588.0,
+                    237.0
+                ],
+                [
+                    526.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "data structure, the Internet of Things, and also Web designing. He is a lifetime",
+            "confidence": 0.9823698997497559,
+            "box": [
+                [
+                    49.0,
+                    238.0
+                ],
+                [
+                    388.0,
+                    238.0
+                ],
+                [
+                    388.0,
+                    253.0
+                ],
+                [
+                    49.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "text": "member of Computer Society of India (CSI), India.",
+            "confidence": 0.9983269572257996,
+            "box": [
+                [
+                    49.0,
+                    253.0
+                ],
+                [
+                    277.0,
+                    253.0
+                ],
+                [
+                    277.0,
+                    264.0
+                ],
+                [
+                    49.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "text": "MOHAMMAD ABDUR RAZZAQUE (Member,",
+            "confidence": 0.9886232614517212,
+            "box": [
+                [
+                    161.0,
+                    295.0
+                ],
+                [
+                    386.0,
+                    297.0
+                ],
+                [
+                    386.0,
+                    312.0
+                ],
+                [
+                    161.0,
+                    309.0
+                ]
+            ]
+        },
+        {
+            "text": "IEEE) received the Ph.D. degree from UCD, Ire-",
+            "confidence": 0.9978712201118469,
+            "box": [
+                [
+                    160.0,
+                    308.0
+                ],
+                [
+                    386.0,
+                    309.0
+                ],
+                [
+                    386.0,
+                    325.0
+                ],
+                [
+                    160.0,
+                    324.0
+                ]
+            ]
+        },
+        {
+            "text": "land. He worked as a Senior Research Fellow with",
+            "confidence": 0.9941644668579102,
+            "box": [
+                [
+                    162.0,
+                    325.0
+                ],
+                [
+                    386.0,
+                    325.0
+                ],
+                [
+                    386.0,
+                    337.0
+                ],
+                [
+                    162.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "the Trinity College Dublin, from October 2014",
+            "confidence": 0.9887540936470032,
+            "box": [
+                [
+                    160.0,
+                    335.0
+                ],
+                [
+                    386.0,
+                    335.0
+                ],
+                [
+                    386.0,
+                    350.0
+                ],
+                [
+                    160.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "to January2018, and a Senior Lecturer with",
+            "confidence": 0.9791544079780579,
+            "box": [
+                [
+                    162.0,
+                    351.0
+                ],
+                [
+                    386.0,
+                    351.0
+                ],
+                [
+                    386.0,
+                    363.0
+                ],
+                [
+                    162.0,
+                    363.0
+                ]
+            ]
+        },
+        {
+            "text": "UTM, Malaysia, from September 2011 to Septem-",
+            "confidence": 0.9932878017425537,
+            "box": [
+                [
+                    160.0,
+                    362.0
+                ],
+                [
+                    388.0,
+                    363.0
+                ],
+                [
+                    387.0,
+                    379.0
+                ],
+                [
+                    160.0,
+                    377.0
+                ]
+            ]
+        },
+        {
+            "text": "ber 2014. He is currently a Senior Lecturer with",
+            "confidence": 0.9904494285583496,
+            "box": [
+                [
+                    161.0,
+                    375.0
+                ],
+                [
+                    386.0,
+                    376.0
+                ],
+                [
+                    386.0,
+                    391.0
+                ],
+                [
+                    161.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "the School of Computing, Engineering, and Digital",
+            "confidence": 0.9796841740608215,
+            "box": [
+                [
+                    161.0,
+                    390.0
+                ],
+                [
+                    388.0,
+                    390.0
+                ],
+                [
+                    388.0,
+                    405.0
+                ],
+                [
+                    161.0,
+                    405.0
+                ]
+            ]
+        },
+        {
+            "text": "Technologies, Teesside University. His research",
+            "confidence": 0.9806873798370361,
+            "box": [
+                [
+                    161.0,
+                    402.0
+                ],
+                [
+                    386.0,
+                    403.0
+                ],
+                [
+                    386.0,
+                    418.0
+                ],
+                [
+                    161.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "interests include centered on end-to-end IoT solu-",
+            "confidence": 0.9953176975250244,
+            "box": [
+                [
+                    162.0,
+                    418.0
+                ],
+                [
+                    385.0,
+                    418.0
+                ],
+                [
+                    385.0,
+                    430.0
+                ],
+                [
+                    162.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "tions and cybersecurity. He is an Editor of the International Journal of",
+            "confidence": 0.99411940574646,
+            "box": [
+                [
+                    49.0,
+                    428.0
+                ],
+                [
+                    386.0,
+                    428.0
+                ],
+                [
+                    386.0,
+                    443.0
+                ],
+                [
+                    49.0,
+                    443.0
+                ]
+            ]
+        },
+        {
+            "text": "Distributed Sensor Networks and IoT JoURNAL.",
+            "confidence": 0.9746587872505188,
+            "box": [
+                [
+                    49.0,
+                    442.0
+                ],
+                [
+                    257.0,
+                    443.0
+                ],
+                [
+                    257.0,
+                    458.0
+                ],
+                [
+                    49.0,
+                    457.0
+                ]
+            ]
+        },
+        {
+            "text": "VOLUME 9, 2021",
+            "confidence": 0.9991654753684998,
+            "box": [
+                [
+                    50.0,
+                    1036.0
+                ],
+                [
+                    114.0,
+                    1036.0
+                ],
+                [
+                    114.0,
+                    1047.0
+                ],
+                [
+                    50.0,
+                    1047.0
+                ]
+            ]
+        },
+        {
+            "text": "28193",
+            "confidence": 0.9990264177322388,
+            "box": [
+                [
+                    718.0,
+                    1035.0
+                ],
+                [
+                    750.0,
+                    1035.0
+                ],
+                [
+                    750.0,
+                    1047.0
+                ],
+                [
+                    718.0,
+                    1047.0
+                ]
+            ]
+        }
+    ],
+    "structure": [
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other"
+    ]
+}

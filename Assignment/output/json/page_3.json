@@ -1,0 +1,2767 @@
+{
+    "page_num": 3,
+    "text": [
+        {
+            "text": "IEEE Access",
+            "confidence": 0.9602685570716858,
+            "box": [
+                [
+                    637.0,
+                    19.0
+                ],
+                [
+                    747.0,
+                    23.0
+                ],
+                [
+                    746.0,
+                    47.0
+                ],
+                [
+                    636.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "V. A. Thakor et al.: Lightweight Cryptography Algorithms for Resource-Constrained loT Devices.",
+            "confidence": 0.9686824083328247,
+            "box": [
+                [
+                    50.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    48.0
+                ],
+                [
+                    50.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "available resources is a challenging task [12], [13]. IoT device",
+            "confidence": 0.996772289276123,
+            "box": [
+                [
+                    50.0,
+                    90.0
+                ],
+                [
+                    386.0,
+                    90.0
+                ],
+                [
+                    386.0,
+                    104.0
+                ],
+                [
+                    50.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "TABLE 2. LWC Characteristics.",
+            "confidence": 0.9904789924621582,
+            "box": [
+                [
+                    409.0,
+                    86.0
+                ],
+                [
+                    550.0,
+                    88.0
+                ],
+                [
+                    550.0,
+                    103.0
+                ],
+                [
+                    409.0,
+                    101.0
+                ]
+            ]
+        },
+        {
+            "text": "designers face several risks and challenges, including energy",
+            "confidence": 0.9988544583320618,
+            "box": [
+                [
+                    49.0,
+                    105.0
+                ],
+                [
+                    384.0,
+                    107.0
+                ],
+                [
+                    384.0,
+                    122.0
+                ],
+                [
+                    49.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "Characteristics",
+            "confidence": 0.998896598815918,
+            "box": [
+                [
+                    497.0,
+                    108.0
+                ],
+                [
+                    561.0,
+                    108.0
+                ],
+                [
+                    561.0,
+                    119.0
+                ],
+                [
+                    497.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "What LWC can offer?",
+            "confidence": 0.9778338074684143,
+            "box": [
+                [
+                    642.0,
+                    105.0
+                ],
+                [
+                    744.0,
+                    108.0
+                ],
+                [
+                    744.0,
+                    119.0
+                ],
+                [
+                    642.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "capacity [14], and data security [9].",
+            "confidence": 0.998999834060669,
+            "box": [
+                [
+                    49.0,
+                    122.0
+                ],
+                [
+                    248.0,
+                    124.0
+                ],
+                [
+                    248.0,
+                    139.0
+                ],
+                [
+                    49.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "Physical",
+            "confidence": 0.9999576210975647,
+            "box": [
+                [
+                    420.0,
+                    119.0
+                ],
+                [
+                    455.0,
+                    119.0
+                ],
+                [
+                    455.0,
+                    130.0
+                ],
+                [
+                    420.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "(Cost)",
+            "confidence": 0.997465193271637,
+            "box": [
+                [
+                    422.0,
+                    128.0
+                ],
+                [
+                    449.0,
+                    128.0
+                ],
+                [
+                    449.0,
+                    141.0
+                ],
+                [
+                    422.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "Tiny key & block",
+            "confidence": 0.996457576751709,
+            "box": [
+                [
+                    650.0,
+                    119.0
+                ],
+                [
+                    717.0,
+                    119.0
+                ],
+                [
+                    717.0,
+                    130.0
+                ],
+                [
+                    650.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "Memory (registers, RAM, ROM)",
+            "confidence": 0.988703727722168,
+            "box": [
+                [
+                    478.0,
+                    133.0
+                ],
+                [
+                    606.0,
+                    133.0
+                ],
+                [
+                    606.0,
+                    147.0
+                ],
+                [
+                    478.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "text": "Simple rounds with",
+            "confidence": 0.9624425172805786,
+            "box": [
+                [
+                    651.0,
+                    129.0
+                ],
+                [
+                    739.0,
+                    129.0
+                ],
+                [
+                    739.0,
+                    141.0
+                ],
+                [
+                    651.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "In these circumstances, if conventional cryptography stan-",
+            "confidence": 0.9977731108665466,
+            "box": [
+                [
+                    62.0,
+                    141.0
+                ],
+                [
+                    385.0,
+                    141.0
+                ],
+                [
+                    385.0,
+                    155.0
+                ],
+                [
+                    62.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "simple computation",
+            "confidence": 0.9994182586669922,
+            "box": [
+                [
+                    650.0,
+                    141.0
+                ],
+                [
+                    725.0,
+                    141.0
+                ],
+                [
+                    725.0,
+                    152.0
+                ],
+                [
+                    650.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "dards are applied to IoT devices (mainly RFIDs and sen-",
+            "confidence": 0.9935794472694397,
+            "box": [
+                [
+                    50.0,
+                    156.0
+                ],
+                [
+                    384.0,
+                    156.0
+                ],
+                [
+                    384.0,
+                    171.0
+                ],
+                [
+                    50.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "Battery power (energy consumption)",
+            "confidence": 0.9987360835075378,
+            "box": [
+                [
+                    474.0,
+                    151.0
+                ],
+                [
+                    617.0,
+                    151.0
+                ],
+                [
+                    617.0,
+                    162.0
+                ],
+                [
+                    474.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "Simple key generation",
+            "confidence": 0.9991346001625061,
+            "box": [
+                [
+                    651.0,
+                    151.0
+                ],
+                [
+                    739.0,
+                    151.0
+                ],
+                [
+                    739.0,
+                    162.0
+                ],
+                [
+                    651.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "Performan",
+            "confidence": 0.9859116673469543,
+            "box": [
+                [
+                    417.0,
+                    162.0
+                ],
+                [
+                    464.0,
+                    162.0
+                ],
+                [
+                    464.0,
+                    170.0
+                ],
+                [
+                    417.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "nputing power (latency, throughput)",
+            "confidence": 0.9858791828155518,
+            "box": [
+                [
+                    494.0,
+                    162.0
+                ],
+                [
+                    630.0,
+                    162.0
+                ],
+                [
+                    630.0,
+                    173.0
+                ],
+                [
+                    494.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "sors), their performance may not be acceptable [6]. The",
+            "confidence": 0.9767913818359375,
+            "box": [
+                [
+                    50.0,
+                    172.0
+                ],
+                [
+                    385.0,
+                    172.0
+                ],
+                [
+                    385.0,
+                    187.0
+                ],
+                [
+                    50.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "Security",
+            "confidence": 0.9991298913955688,
+            "box": [
+                [
+                    420.0,
+                    177.0
+                ],
+                [
+                    455.0,
+                    177.0
+                ],
+                [
+                    455.0,
+                    189.0
+                ],
+                [
+                    420.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "Minimum security strength (bits)",
+            "confidence": 0.9425219893455505,
+            "box": [
+                [
+                    480.0,
+                    174.0
+                ],
+                [
+                    606.0,
+                    176.0
+                ],
+                [
+                    606.0,
+                    190.0
+                ],
+                [
+                    479.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "Strong internal struc-",
+            "confidence": 0.9907941818237305,
+            "box": [
+                [
+                    652.0,
+                    172.0
+                ],
+                [
+                    738.0,
+                    172.0
+                ],
+                [
+                    738.0,
+                    184.0
+                ],
+                [
+                    652.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "above issues with conventional cryptography are very well",
+            "confidence": 0.9989510774612427,
+            "box": [
+                [
+                    50.0,
+                    190.0
+                ],
+                [
+                    386.0,
+                    190.0
+                ],
+                [
+                    386.0,
+                    205.0
+                ],
+                [
+                    50.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "ture",
+            "confidence": 0.9975730180740356,
+            "box": [
+                [
+                    650.0,
+                    184.0
+                ],
+                [
+                    665.0,
+                    184.0
+                ],
+                [
+                    665.0,
+                    193.0
+                ],
+                [
+                    650.0,
+                    193.0
+                ]
+            ]
+        },
+        {
+            "text": "Attack models (related key, multi-keys)",
+            "confidence": 0.993301272392273,
+            "box": [
+                [
+                    478.0,
+                    194.0
+                ],
+                [
+                    633.0,
+                    194.0
+                ],
+                [
+                    633.0,
+                    205.0
+                ],
+                [
+                    478.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "addressed by its sub-discipline, lightweight cryptography,",
+            "confidence": 0.9998595714569092,
+            "box": [
+                [
+                    50.0,
+                    207.0
+                ],
+                [
+                    385.0,
+                    207.0
+                ],
+                [
+                    385.0,
+                    222.0
+                ],
+                [
+                    50.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "Side-channel and Fault-injection attacks",
+            "confidence": 0.9974080920219421,
+            "box": [
+                [
+                    478.0,
+                    203.0
+                ],
+                [
+                    632.0,
+                    204.0
+                ],
+                [
+                    632.0,
+                    215.0
+                ],
+                [
+                    478.0,
+                    214.0
+                ]
+            ]
+        },
+        {
+            "text": "by introducing lightweight features such as small memory,",
+            "confidence": 0.9799988865852356,
+            "box": [
+                [
+                    49.0,
+                    222.0
+                ],
+                [
+                    386.0,
+                    223.0
+                ],
+                [
+                    386.0,
+                    239.0
+                ],
+                [
+                    49.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "small processing power, low power consumption, real-time",
+            "confidence": 0.9998803734779358,
+            "box": [
+                [
+                    50.0,
+                    240.0
+                ],
+                [
+                    385.0,
+                    240.0
+                ],
+                [
+                    385.0,
+                    255.0
+                ],
+                [
+                    50.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "response even with resource-constrained devices [6].]",
+            "confidence": 0.9718589782714844,
+            "box": [
+                [
+                    50.0,
+                    256.0
+                ],
+                [
+                    342.0,
+                    256.0
+                ],
+                [
+                    342.0,
+                    271.0
+                ],
+                [
+                    50.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "phy (plain encryption) algorithms over 7 performance metrics",
+            "confidence": 0.9940833449363708,
+            "box": [
+                [
+                    411.0,
+                    248.0
+                ],
+                [
+                    749.0,
+                    248.0
+                ],
+                [
+                    749.0,
+                    263.0
+                ],
+                [
+                    411.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "text": "(Block/Key size, Memory, Gate Area, Latency, Throughput,",
+            "confidence": 0.9936614632606506,
+            "box": [
+                [
+                    412.0,
+                    265.0
+                ],
+                [
+                    748.0,
+                    265.0
+                ],
+                [
+                    748.0,
+                    280.0
+                ],
+                [
+                    412.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "that it is not just applicable to resource-constrained devices",
+            "confidence": 0.9971943497657776,
+            "box": [
+                [
+                    50.0,
+                    289.0
+                ],
+                [
+                    385.0,
+                    289.0
+                ],
+                [
+                    385.0,
+                    304.0
+                ],
+                [
+                    50.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "Power & Energy requirements along with hardware and soft-",
+            "confidence": 0.9944195747375488,
+            "box": [
+                [
+                    411.0,
+                    281.0
+                ],
+                [
+                    748.0,
+                    281.0
+                ],
+                [
+                    748.0,
+                    296.0
+                ],
+                [
+                    411.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "(RFID tags, sensors, etc.), but readily applicable to other",
+            "confidence": 0.9981430172920227,
+            "box": [
+                [
+                    51.0,
+                    306.0
+                ],
+                [
+                    386.0,
+                    306.0
+                ],
+                [
+                    386.0,
+                    322.0
+                ],
+                [
+                    51.0,
+                    322.0
+                ]
+            ]
+        },
+        {
+            "text": "ware efficiency) as recommended by the NIST report for",
+            "confidence": 0.9975718259811401,
+            "box": [
+                [
+                    411.0,
+                    298.0
+                ],
+                [
+                    749.0,
+                    298.0
+                ],
+                [
+                    749.0,
+                    313.0
+                ],
+                [
+                    411.0,
+                    313.0
+                ]
+            ]
+        },
+        {
+            "text": "devices rich in resources that it directly or indirectly interacts",
+            "confidence": 0.9997197985649109,
+            "box": [
+                [
+                    50.0,
+                    323.0
+                ],
+                [
+                    386.0,
+                    323.0
+                ],
+                [
+                    386.0,
+                    338.0
+                ],
+                [
+                    50.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "resource-constrained IoT devices [6]. These LWC algorithms",
+            "confidence": 0.9879465699195862,
+            "box": [
+                [
+                    411.0,
+                    314.0
+                ],
+                [
+                    749.0,
+                    314.0
+                ],
+                [
+                    749.0,
+                    329.0
+                ],
+                [
+                    411.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "with (such as servers, PCs, tablets, smartphones, etc.) [6].",
+            "confidence": 0.9788232445716858,
+            "box": [
+                [
+                    50.0,
+                    340.0
+                ],
+                [
+                    368.0,
+                    340.0
+                ],
+                [
+                    368.0,
+                    355.0
+                ],
+                [
+                    50.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "are widely adopted by the industries and the article reveals",
+            "confidence": 0.9848664402961731,
+            "box": [
+                [
+                    411.0,
+                    331.0
+                ],
+                [
+                    749.0,
+                    331.0
+                ],
+                [
+                    749.0,
+                    346.0
+                ],
+                [
+                    411.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "the top ten amongst them based on their mapping (met-",
+            "confidence": 0.9828804135322571,
+            "box": [
+                [
+                    411.0,
+                    348.0
+                ],
+                [
+                    747.0,
+                    348.0
+                ],
+                [
+                    747.0,
+                    363.0
+                ],
+                [
+                    411.0,
+                    363.0
+                ]
+            ]
+        },
+        {
+            "text": "D. MOTIVATION AND CONTRIBUTION",
+            "confidence": 0.9596195816993713,
+            "box": [
+                [
+                    50.0,
+                    371.0
+                ],
+                [
+                    269.0,
+                    371.0
+                ],
+                [
+                    269.0,
+                    385.0
+                ],
+                [
+                    50.0,
+                    385.0
+                ]
+            ]
+        },
+        {
+            "text": "rics). These analyses could be useful to researchers/scientists",
+            "confidence": 0.991352379322052,
+            "box": [
+                [
+                    411.0,
+                    364.0
+                ],
+                [
+                    748.0,
+                    364.0
+                ],
+                [
+                    748.0,
+                    379.0
+                ],
+                [
+                    411.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "Recently, many algorithms have been proposed for LWC",
+            "confidence": 0.9724886417388916,
+            "box": [
+                [
+                    49.0,
+                    388.0
+                ],
+                [
+                    385.0,
+                    388.0
+                ],
+                [
+                    385.0,
+                    402.0
+                ],
+                [
+                    49.0,
+                    402.0
+                ]
+            ]
+        },
+        {
+            "text": "in choosing the right algorithm based on their application",
+            "confidence": 0.9790135025978088,
+            "box": [
+                [
+                    411.0,
+                    381.0
+                ],
+                [
+                    748.0,
+                    381.0
+                ],
+                [
+                    748.0,
+                    396.0
+                ],
+                [
+                    411.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "text": "by the researchers. Besides, many works have revealed the",
+            "confidence": 0.9890187978744507,
+            "box": [
+                [
+                    49.0,
+                    406.0
+                ],
+                [
+                    386.0,
+                    406.0
+                ],
+                [
+                    386.0,
+                    420.0
+                ],
+                [
+                    49.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "requirement(s). Also, demonstrating various IoT applications",
+            "confidence": 0.9966367483139038,
+            "box": [
+                [
+                    411.0,
+                    398.0
+                ],
+                [
+                    749.0,
+                    398.0
+                ],
+                [
+                    749.0,
+                    413.0
+                ],
+                [
+                    411.0,
+                    413.0
+                ]
+            ]
+        },
+        {
+            "text": "security attacks on particular LWC algorithm(s) [15][31]",
+            "confidence": 0.9866443276405334,
+            "box": [
+                [
+                    50.0,
+                    423.0
+                ],
+                [
+                    384.0,
+                    423.0
+                ],
+                [
+                    384.0,
+                    437.0
+                ],
+                [
+                    50.0,
+                    437.0
+                ]
+            ]
+        },
+        {
+            "text": "in real-world along with their lightweight key requirements",
+            "confidence": 0.9982307553291321,
+            "box": [
+                [
+                    411.0,
+                    414.0
+                ],
+                [
+                    749.0,
+                    414.0
+                ],
+                [
+                    749.0,
+                    428.0
+                ],
+                [
+                    411.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "A number of published papers have done a fair compari-",
+            "confidence": 0.9978553056716919,
+            "box": [
+                [
+                    50.0,
+                    440.0
+                ],
+                [
+                    384.0,
+                    440.0
+                ],
+                [
+                    384.0,
+                    454.0
+                ],
+                [
+                    50.0,
+                    454.0
+                ]
+            ]
+        },
+        {
+            "text": "and their best suite LWC options is a unique contribution",
+            "confidence": 0.9898596405982971,
+            "box": [
+                [
+                    411.0,
+                    431.0
+                ],
+                [
+                    749.0,
+                    431.0
+                ],
+                [
+                    749.0,
+                    445.0
+                ],
+                [
+                    411.0,
+                    445.0
+                ]
+            ]
+        },
+        {
+            "text": "in the field of lightweight cryptography. In addition, our",
+            "confidence": 0.9947649240493774,
+            "box": [
+                [
+                    410.0,
+                    448.0
+                ],
+                [
+                    747.0,
+                    448.0
+                ],
+                [
+                    747.0,
+                    462.0
+                ],
+                [
+                    410.0,
+                    462.0
+                ]
+            ]
+        },
+        {
+            "text": "son of hardware and/or software implementations of these",
+            "confidence": 0.9987750053405762,
+            "box": [
+                [
+                    51.0,
+                    458.0
+                ],
+                [
+                    385.0,
+                    458.0
+                ],
+                [
+                    385.0,
+                    469.0
+                ],
+                [
+                    51.0,
+                    469.0
+                ]
+            ]
+        },
+        {
+            "text": "algorithms on different platforms as well as in different",
+            "confidence": 0.9868704676628113,
+            "box": [
+                [
+                    49.0,
+                    471.0
+                ],
+                [
+                    386.0,
+                    470.0
+                ],
+                [
+                    386.0,
+                    486.0
+                ],
+                [
+                    49.0,
+                    487.0
+                ]
+            ]
+        },
+        {
+            "text": "paper evaluates various attacks on different LWC algorithms",
+            "confidence": 0.9879363179206848,
+            "box": [
+                [
+                    410.0,
+                    464.0
+                ],
+                [
+                    749.0,
+                    462.0
+                ],
+                [
+                    749.0,
+                    478.0
+                ],
+                [
+                    410.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "text": "circumstances [9], [32][39]. Most of these works have",
+            "confidence": 0.9562650918960571,
+            "box": [
+                [
+                    50.0,
+                    488.0
+                ],
+                [
+                    386.0,
+                    488.0
+                ],
+                [
+                    386.0,
+                    503.0
+                ],
+                [
+                    50.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "in a grid form. Such comparison eases users to identify",
+            "confidence": 0.973283588886261,
+            "box": [
+                [
+                    410.0,
+                    481.0
+                ],
+                [
+                    748.0,
+                    479.0
+                ],
+                [
+                    748.0,
+                    495.0
+                ],
+                [
+                    410.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "the security strength of any LWC algorithm as well as to",
+            "confidence": 0.9768819808959961,
+            "box": [
+                [
+                    411.0,
+                    496.0
+                ],
+                [
+                    749.0,
+                    496.0
+                ],
+                [
+                    749.0,
+                    512.0
+                ],
+                [
+                    411.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "considered the algorithms which are applicable in certain",
+            "confidence": 0.9930291175842285,
+            "box": [
+                [
+                    50.0,
+                    507.0
+                ],
+                [
+                    386.0,
+                    507.0
+                ],
+                [
+                    386.0,
+                    521.0
+                ],
+                [
+                    50.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "domains or suitable for certain applications. However, a holis-",
+            "confidence": 0.9929836392402649,
+            "box": [
+                [
+                    50.0,
+                    522.0
+                ],
+                [
+                    386.0,
+                    522.0
+                ],
+                [
+                    386.0,
+                    537.0
+                ],
+                [
+                    50.0,
+                    537.0
+                ]
+            ]
+        },
+        {
+            "text": "identify common attacks on LWC algorithms. A recent call",
+            "confidence": 0.9893503189086914,
+            "box": [
+                [
+                    411.0,
+                    513.0
+                ],
+                [
+                    748.0,
+                    513.0
+                ],
+                [
+                    748.0,
+                    528.0
+                ],
+                [
+                    411.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "tic view of the proposed LWC algorithms in terms of their",
+            "confidence": 0.9924247860908508,
+            "box": [
+                [
+                    50.0,
+                    539.0
+                ],
+                [
+                    386.0,
+                    539.0
+                ],
+                [
+                    386.0,
+                    554.0
+                ],
+                [
+                    50.0,
+                    554.0
+                ]
+            ]
+        },
+        {
+            "text": "from NIST [43] (to create new LWC algorithms for easy and",
+            "confidence": 0.9987313151359558,
+            "box": [
+                [
+                    412.0,
+                    530.0
+                ],
+                [
+                    749.0,
+                    530.0
+                ],
+                [
+                    749.0,
+                    545.0
+                ],
+                [
+                    412.0,
+                    545.0
+                ]
+            ]
+        },
+        {
+            "text": "hardware-software performances along with cryptanalysis is",
+            "confidence": 0.9912276268005371,
+            "box": [
+                [
+                    49.0,
+                    555.0
+                ],
+                [
+                    386.0,
+                    555.0
+                ],
+                [
+                    386.0,
+                    570.0
+                ],
+                [
+                    49.0,
+                    570.0
+                ]
+            ]
+        },
+        {
+            "text": "efficient implementation on resource-constrained circuitry)",
+            "confidence": 0.9830278754234314,
+            "box": [
+                [
+                    412.0,
+                    547.0
+                ],
+                [
+                    748.0,
+                    547.0
+                ],
+                [
+                    748.0,
+                    562.0
+                ],
+                [
+                    412.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "and the results derived from the study (none of the algorithms",
+            "confidence": 0.9914958477020264,
+            "box": [
+                [
+                    411.0,
+                    563.0
+                ],
+                [
+                    748.0,
+                    564.0
+                ],
+                [
+                    748.0,
+                    579.0
+                ],
+                [
+                    411.0,
+                    578.0
+                ]
+            ]
+        },
+        {
+            "text": "missing in these works. Authors in [4O] have reviewed a",
+            "confidence": 0.9814552068710327,
+            "box": [
+                [
+                    51.0,
+                    573.0
+                ],
+                [
+                    386.0,
+                    573.0
+                ],
+                [
+                    386.0,
+                    585.0
+                ],
+                [
+                    51.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "list of different LWC algorithms with their performances on",
+            "confidence": 0.9848842024803162,
+            "box": [
+                [
+                    50.0,
+                    589.0
+                ],
+                [
+                    386.0,
+                    589.0
+                ],
+                [
+                    386.0,
+                    604.0
+                ],
+                [
+                    50.0,
+                    604.0
+                ]
+            ]
+        },
+        {
+            "text": "meets all the criteria of lightweight in terms of cost and",
+            "confidence": 0.9694889783859253,
+            "box": [
+                [
+                    411.0,
+                    580.0
+                ],
+                [
+                    749.0,
+                    580.0
+                ],
+                [
+                    749.0,
+                    595.0
+                ],
+                [
+                    411.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "different platforms but missing an inclusive view on their",
+            "confidence": 0.9901626706123352,
+            "box": [
+                [
+                    50.0,
+                    605.0
+                ],
+                [
+                    386.0,
+                    605.0
+                ],
+                [
+                    386.0,
+                    620.0
+                ],
+                [
+                    50.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "performance along with strong security), really encourage to",
+            "confidence": 0.9903997182846069,
+            "box": [
+                [
+                    412.0,
+                    597.0
+                ],
+                [
+                    748.0,
+                    597.0
+                ],
+                [
+                    748.0,
+                    612.0
+                ],
+                [
+                    412.0,
+                    612.0
+                ]
+            ]
+        },
+        {
+            "text": "applications and lightweight key demands of cost (mem-",
+            "confidence": 0.9978117346763611,
+            "box": [
+                [
+                    50.0,
+                    622.0
+                ],
+                [
+                    385.0,
+                    622.0
+                ],
+                [
+                    385.0,
+                    637.0
+                ],
+                [
+                    50.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "text": "explore the existing list of LWC algorithms from different",
+            "confidence": 0.9796384572982788,
+            "box": [
+                [
+                    411.0,
+                    613.0
+                ],
+                [
+                    749.0,
+                    613.0
+                ],
+                [
+                    749.0,
+                    628.0
+                ],
+                [
+                    411.0,
+                    628.0
+                ]
+            ]
+        },
+        {
+            "text": "ory, physical area, battery, power) and performance (quick",
+            "confidence": 0.9933189153671265,
+            "box": [
+                [
+                    50.0,
+                    639.0
+                ],
+                [
+                    386.0,
+                    639.0
+                ],
+                [
+                    386.0,
+                    654.0
+                ],
+                [
+                    50.0,
+                    654.0
+                ]
+            ]
+        },
+        {
+            "text": "perspectives for further research.",
+            "confidence": 0.9870830774307251,
+            "box": [
+                [
+                    410.0,
+                    630.0
+                ],
+                [
+                    595.0,
+                    629.0
+                ],
+                [
+                    595.0,
+                    645.0
+                ],
+                [
+                    410.0,
+                    646.0
+                ]
+            ]
+        },
+        {
+            "text": "response) along with the security concerns. Also, [40] does",
+            "confidence": 0.9912223815917969,
+            "box": [
+                [
+                    50.0,
+                    655.0
+                ],
+                [
+                    386.0,
+                    655.0
+                ],
+                [
+                    386.0,
+                    670.0
+                ],
+                [
+                    50.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "not include a number of key algorithms, e.g., Keeloq and",
+            "confidence": 0.9828613996505737,
+            "box": [
+                [
+                    50.0,
+                    672.0
+                ],
+                [
+                    386.0,
+                    672.0
+                ],
+                [
+                    386.0,
+                    687.0
+                ],
+                [
+                    50.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "E. PAPER OUTLINE",
+            "confidence": 0.9805082082748413,
+            "box": [
+                [
+                    412.0,
+                    665.0
+                ],
+                [
+                    525.0,
+                    665.0
+                ],
+                [
+                    525.0,
+                    680.0
+                ],
+                [
+                    412.0,
+                    680.0
+                ]
+            ]
+        },
+        {
+            "text": "Midori. In addition, it just provides a list of attacks on LWC",
+            "confidence": 0.999483048915863,
+            "box": [
+                [
+                    50.0,
+                    688.0
+                ],
+                [
+                    386.0,
+                    688.0
+                ],
+                [
+                    386.0,
+                    703.0
+                ],
+                [
+                    50.0,
+                    703.0
+                ]
+            ]
+        },
+        {
+            "text": "Considering the significance of IoT security, this article takes",
+            "confidence": 0.9979813694953918,
+            "box": [
+                [
+                    410.0,
+                    683.0
+                ],
+                [
+                    748.0,
+                    682.0
+                ],
+                [
+                    748.0,
+                    698.0
+                ],
+                [
+                    410.0,
+                    699.0
+                ]
+            ]
+        },
+        {
+            "text": "algorithms without any security comparison, and thus a clear",
+            "confidence": 0.9991186857223511,
+            "box": [
+                [
+                    50.0,
+                    705.0
+                ],
+                [
+                    386.0,
+                    705.0
+                ],
+                [
+                    386.0,
+                    720.0
+                ],
+                [
+                    50.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "an inclusive view on symmetric key lightweight cryptography",
+            "confidence": 0.9992761015892029,
+            "box": [
+                [
+                    411.0,
+                    702.0
+                ],
+                [
+                    747.0,
+                    702.0
+                ],
+                [
+                    747.0,
+                    716.0
+                ],
+                [
+                    411.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "view of various security attacks on different LWC algorithms",
+            "confidence": 0.997447669506073,
+            "box": [
+                [
+                    50.0,
+                    721.0
+                ],
+                [
+                    386.0,
+                    721.0
+                ],
+                [
+                    386.0,
+                    736.0
+                ],
+                [
+                    50.0,
+                    736.0
+                ]
+            ]
+        },
+        {
+            "text": "algorithms and i) defines hardware and software performance",
+            "confidence": 0.983280599117279,
+            "box": [
+                [
+                    411.0,
+                    717.0
+                ],
+                [
+                    748.0,
+                    717.0
+                ],
+                [
+                    748.0,
+                    732.0
+                ],
+                [
+                    411.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "is missing.",
+            "confidence": 0.9832426309585571,
+            "box": [
+                [
+                    47.0,
+                    736.0
+                ],
+                [
+                    112.0,
+                    739.0
+                ],
+                [
+                    111.0,
+                    754.0
+                ],
+                [
+                    46.0,
+                    751.0
+                ]
+            ]
+        },
+        {
+            "text": "metrics based on identified key characteristics of LwC and",
+            "confidence": 0.9839838743209839,
+            "box": [
+                [
+                    411.0,
+                    734.0
+                ],
+                [
+                    749.0,
+                    734.0
+                ],
+                [
+                    749.0,
+                    749.0
+                ],
+                [
+                    411.0,
+                    749.0
+                ]
+            ]
+        },
+        {
+            "text": "More recently, [41] discusses on the algorithms, especially",
+            "confidence": 0.9998913407325745,
+            "box": [
+                [
+                    62.0,
+                    755.0
+                ],
+                [
+                    384.0,
+                    755.0
+                ],
+                [
+                    384.0,
+                    770.0
+                ],
+                [
+                    62.0,
+                    770.0
+                ]
+            ]
+        },
+        {
+            "text": "gives a broad classification of LWC based on their internal",
+            "confidence": 0.9844925403594971,
+            "box": [
+                [
+                    411.0,
+                    750.0
+                ],
+                [
+                    749.0,
+                    750.0
+                ],
+                [
+                    749.0,
+                    765.0
+                ],
+                [
+                    411.0,
+                    765.0
+                ]
+            ]
+        },
+        {
+            "text": "submitted to the NIST competition (round 2), which are",
+            "confidence": 0.9870800375938416,
+            "box": [
+                [
+                    50.0,
+                    771.0
+                ],
+                [
+                    386.0,
+                    771.0
+                ],
+                [
+                    386.0,
+                    785.0
+                ],
+                [
+                    50.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "structure (Section II), ii) a comprehensive study of existing",
+            "confidence": 0.9866065979003906,
+            "box": [
+                [
+                    411.0,
+                    767.0
+                ],
+                [
+                    748.0,
+                    767.0
+                ],
+                [
+                    748.0,
+                    782.0
+                ],
+                [
+                    411.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "text": "compliant with LWC Hardware API (proposed by the NIST",
+            "confidence": 0.9838278293609619,
+            "box": [
+                [
+                    50.0,
+                    788.0
+                ],
+                [
+                    385.0,
+                    788.0
+                ],
+                [
+                    385.0,
+                    804.0
+                ],
+                [
+                    50.0,
+                    804.0
+                ]
+            ]
+        },
+        {
+            "text": "LWC algorithms along with their performances, cryptanal-",
+            "confidence": 0.9970954656600952,
+            "box": [
+                [
+                    411.0,
+                    784.0
+                ],
+                [
+                    748.0,
+                    784.0
+                ],
+                [
+                    748.0,
+                    799.0
+                ],
+                [
+                    411.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "text": "in 2019) and evaluates them on FPGA platform (Xilinx,",
+            "confidence": 0.9823026061058044,
+            "box": [
+                [
+                    48.0,
+                    802.0
+                ],
+                [
+                    386.0,
+                    804.0
+                ],
+                [
+                    386.0,
+                    819.0
+                ],
+                [
+                    48.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "ysis and real-time use cases (Section III), iii) outlines open",
+            "confidence": 0.990501344203949,
+            "box": [
+                [
+                    411.0,
+                    800.0
+                ],
+                [
+                    748.0,
+                    800.0
+                ],
+                [
+                    748.0,
+                    815.0
+                ],
+                [
+                    411.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "Intel, and Lattice). The paper considers only two performance",
+            "confidence": 0.9928378462791443,
+            "box": [
+                [
+                    49.0,
+                    822.0
+                ],
+                [
+                    386.0,
+                    822.0
+                ],
+                [
+                    386.0,
+                    836.0
+                ],
+                [
+                    49.0,
+                    836.0
+                ]
+            ]
+        },
+        {
+            "text": "research challenges, recommending future research direc-",
+            "confidence": 0.997808039188385,
+            "box": [
+                [
+                    411.0,
+                    817.0
+                ],
+                [
+                    747.0,
+                    817.0
+                ],
+                [
+                    747.0,
+                    832.0
+                ],
+                [
+                    411.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "text": "tions (Section IV), and finally iv) concludes in (Section V).",
+            "confidence": 0.9904704093933105,
+            "box": [
+                [
+                    411.0,
+                    833.0
+                ],
+                [
+                    741.0,
+                    833.0
+                ],
+                [
+                    741.0,
+                    848.0
+                ],
+                [
+                    411.0,
+                    848.0
+                ]
+            ]
+        },
+        {
+            "text": "could be its limitation as others (Block/Key size, Memory,",
+            "confidence": 0.9856205582618713,
+            "box": [
+                [
+                    50.0,
+                    855.0
+                ],
+                [
+                    384.0,
+                    855.0
+                ],
+                [
+                    384.0,
+                    869.0
+                ],
+                [
+                    50.0,
+                    869.0
+                ]
+            ]
+        },
+        {
+            "text": "Gate Area, Power & Energy requirements) are missing. Also,",
+            "confidence": 0.9873178005218506,
+            "box": [
+                [
+                    50.0,
+                    872.0
+                ],
+                [
+                    386.0,
+                    872.0
+                ],
+                [
+                    386.0,
+                    886.0
+                ],
+                [
+                    50.0,
+                    886.0
+                ]
+            ]
+        },
+        {
+            "text": "II. LIGHTWEIGHT CRYPTOGRAPHY FOR",
+            "confidence": 0.9894098043441772,
+            "box": [
+                [
+                    412.0,
+                    868.0
+                ],
+                [
+                    645.0,
+                    868.0
+                ],
+                [
+                    645.0,
+                    883.0
+                ],
+                [
+                    412.0,
+                    883.0
+                ]
+            ]
+        },
+        {
+            "text": "these algorithms are running in a competition through several",
+            "confidence": 0.9905371069908142,
+            "box": [
+                [
+                    50.0,
+                    887.0
+                ],
+                [
+                    386.0,
+                    887.0
+                ],
+                [
+                    386.0,
+                    902.0
+                ],
+                [
+                    50.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "text": "RESOURCE-CONSTRAINED IoT DEVICES",
+            "confidence": 0.9490267038345337,
+            "box": [
+                [
+                    412.0,
+                    887.0
+                ],
+                [
+                    641.0,
+                    887.0
+                ],
+                [
+                    641.0,
+                    899.0
+                ],
+                [
+                    412.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "rounds (32 out of 57 (in round 1) are competing in the 2nd",
+            "confidence": 0.9837055206298828,
+            "box": [
+                [
+                    49.0,
+                    904.0
+                ],
+                [
+                    386.0,
+                    904.0
+                ],
+                [
+                    386.0,
+                    919.0
+                ],
+                [
+                    49.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "A.CHARACTERISTICS OFFERED BY LWC",
+            "confidence": 0.9572598934173584,
+            "box": [
+                [
+                    414.0,
+                    904.0
+                ],
+                [
+                    642.0,
+                    904.0
+                ],
+                [
+                    642.0,
+                    916.0
+                ],
+                [
+                    414.0,
+                    916.0
+                ]
+            ]
+        },
+        {
+            "text": "round).",
+            "confidence": 0.9985054731369019,
+            "box": [
+                [
+                    49.0,
+                    923.0
+                ],
+                [
+                    91.0,
+                    923.0
+                ],
+                [
+                    91.0,
+                    935.0
+                ],
+                [
+                    49.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "The three main characteristics of Lightweight cryptography",
+            "confidence": 0.9922987818717957,
+            "box": [
+                [
+                    412.0,
+                    921.0
+                ],
+                [
+                    747.0,
+                    921.0
+                ],
+                [
+                    747.0,
+                    936.0
+                ],
+                [
+                    412.0,
+                    936.0
+                ]
+            ]
+        },
+        {
+            "text": "With a unique aspect in this paper, we have clearly clas-",
+            "confidence": 0.9803104996681213,
+            "box": [
+                [
+                    64.0,
+                    937.0
+                ],
+                [
+                    384.0,
+                    937.0
+                ],
+                [
+                    384.0,
+                    952.0
+                ],
+                [
+                    64.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "algorithms and their offerings are listed in Table 2 [9], [11]:",
+            "confidence": 0.9814369678497314,
+            "box": [
+                [
+                    411.0,
+                    937.0
+                ],
+                [
+                    743.0,
+                    937.0
+                ],
+                [
+                    743.0,
+                    952.0
+                ],
+                [
+                    411.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "sified the key characteristics of LWC algorithms (missing in",
+            "confidence": 0.9859824776649475,
+            "box": [
+                [
+                    50.0,
+                    954.0
+                ],
+                [
+                    386.0,
+                    954.0
+                ],
+                [
+                    386.0,
+                    969.0
+                ],
+                [
+                    50.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "As shown in the above table, physical cost, performance",
+            "confidence": 0.9998515248298645,
+            "box": [
+                [
+                    426.0,
+                    954.0
+                ],
+                [
+                    749.0,
+                    954.0
+                ],
+                [
+                    749.0,
+                    969.0
+                ],
+                [
+                    426.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "the existing survey papers) proposed by the leading research",
+            "confidence": 0.9915441870689392,
+            "box": [
+                [
+                    50.0,
+                    970.0
+                ],
+                [
+                    386.0,
+                    970.0
+                ],
+                [
+                    386.0,
+                    985.0
+                ],
+                [
+                    50.0,
+                    985.0
+                ]
+            ]
+        },
+        {
+            "text": "and security are the main characteristics to look into while",
+            "confidence": 0.9956883788108826,
+            "box": [
+                [
+                    411.0,
+                    970.0
+                ],
+                [
+                    748.0,
+                    970.0
+                ],
+                [
+                    748.0,
+                    985.0
+                ],
+                [
+                    411.0,
+                    985.0
+                ]
+            ]
+        },
+        {
+            "text": "groups [6], [42] in the fields of cryptography along with how",
+            "confidence": 0.9952636957168579,
+            "box": [
+                [
+                    50.0,
+                    987.0
+                ],
+                [
+                    385.0,
+                    987.0
+                ],
+                [
+                    385.0,
+                    1003.0
+                ],
+                [
+                    50.0,
+                    1003.0
+                ]
+            ]
+        },
+        {
+            "text": "implementing cryptography to any resource-constrained IoT",
+            "confidence": 0.9960246086120605,
+            "box": [
+                [
+                    411.0,
+                    987.0
+                ],
+                [
+                    748.0,
+                    987.0
+                ],
+                [
+                    748.0,
+                    1002.0
+                ],
+                [
+                    411.0,
+                    1002.0
+                ]
+            ]
+        },
+        {
+            "text": "LWC satisfies these properties (Table 2). Secondly, our paper",
+            "confidence": 0.9844034314155579,
+            "box": [
+                [
+                    49.0,
+                    1004.0
+                ],
+                [
+                    386.0,
+                    1004.0
+                ],
+                [
+                    386.0,
+                    1019.0
+                ],
+                [
+                    49.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "device. Each of these characteristics is further observed where",
+            "confidence": 0.9979140162467957,
+            "box": [
+                [
+                    411.0,
+                    1004.0
+                ],
+                [
+                    749.0,
+                    1004.0
+                ],
+                [
+                    749.0,
+                    1019.0
+                ],
+                [
+                    411.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "VOLUME 9, 2021",
+            "confidence": 0.986066997051239,
+            "box": [
+                [
+                    49.0,
+                    1035.0
+                ],
+                [
+                    112.0,
+                    1035.0
+                ],
+                [
+                    112.0,
+                    1047.0
+                ],
+                [
+                    49.0,
+                    1047.0
+                ]
+            ]
+        },
+        {
+            "text": "28179",
+            "confidence": 0.999882698059082,
+            "box": [
+                [
+                    717.0,
+                    1032.0
+                ],
+                [
+                    751.0,
+                    1032.0
+                ],
+                [
+                    751.0,
+                    1048.0
+                ],
+                [
+                    717.0,
+                    1048.0
+                ]
+            ]
+        }
+    ],
+    "structure": [
+        "other",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "table",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "table",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "other",
+        "other"
+    ]
+}

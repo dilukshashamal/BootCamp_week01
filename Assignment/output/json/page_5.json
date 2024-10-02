@@ -1,0 +1,2744 @@
+{
+    "page_num": 5,
+    "text": [
+        {
+            "text": "IEEE Access",
+            "confidence": 0.9602685570716858,
+            "box": [
+                [
+                    637.0,
+                    19.0
+                ],
+                [
+                    747.0,
+                    23.0
+                ],
+                [
+                    746.0,
+                    47.0
+                ],
+                [
+                    636.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "V. A. Thakor et al.: Lightweight Cryptography Algorithms for Resource-Constrained loT Devices.",
+            "confidence": 0.9686824083328247,
+            "box": [
+                [
+                    50.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    33.0
+                ],
+                [
+                    456.0,
+                    48.0
+                ],
+                [
+                    50.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "by bit (or word by word) [46]. There are two fundamen-",
+            "confidence": 0.9689750075340271,
+            "box": [
+                [
+                    49.0,
+                    90.0
+                ],
+                [
+                    385.0,
+                    90.0
+                ],
+                [
+                    385.0,
+                    104.0
+                ],
+                [
+                    49.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "requires more round function compared to SPN structures for",
+            "confidence": 0.9959246516227722,
+            "box": [
+                [
+                    411.0,
+                    90.0
+                ],
+                [
+                    748.0,
+                    90.0
+                ],
+                [
+                    748.0,
+                    104.0
+                ],
+                [
+                    411.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "tal properties of any cryptography, confusion and diffusion,",
+            "confidence": 0.9911016225814819,
+            "box": [
+                [
+                    49.0,
+                    107.0
+                ],
+                [
+                    386.0,
+                    107.0
+                ],
+                [
+                    386.0,
+                    122.0
+                ],
+                [
+                    49.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "safety reasons [48]. When there is a choice between fewer",
+            "confidence": 0.9937405586242676,
+            "box": [
+                [
+                    410.0,
+                    105.0
+                ],
+                [
+                    748.0,
+                    107.0
+                ],
+                [
+                    748.0,
+                    122.0
+                ],
+                [
+                    410.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "introduced by Claude Shannon [35], [40] to strengthen the",
+            "confidence": 0.9911885261535645,
+            "box": [
+                [
+                    50.0,
+                    124.0
+                ],
+                [
+                    388.0,
+                    124.0
+                ],
+                [
+                    388.0,
+                    138.0
+                ],
+                [
+                    50.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "SPN function rounds and higher Feistel function rounds with",
+            "confidence": 0.9988296031951904,
+            "box": [
+                [
+                    411.0,
+                    124.0
+                ],
+                [
+                    748.0,
+                    124.0
+                ],
+                [
+                    748.0,
+                    138.0
+                ],
+                [
+                    411.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "cipher. The confusion makes the relationship between the.",
+            "confidence": 0.9880561828613281,
+            "box": [
+                [
+                    50.0,
+                    141.0
+                ],
+                [
+                    388.0,
+                    141.0
+                ],
+                [
+                    388.0,
+                    155.0
+                ],
+                [
+                    50.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "the same level of security and similar energy costs, SPN",
+            "confidence": 0.9934113621711731,
+            "box": [
+                [
+                    411.0,
+                    141.0
+                ],
+                [
+                    749.0,
+                    141.0
+                ],
+                [
+                    749.0,
+                    155.0
+                ],
+                [
+                    411.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "ciphertext and the key as complex as possible using substitu-",
+            "confidence": 0.9755223989486694,
+            "box": [
+                [
+                    50.0,
+                    158.0
+                ],
+                [
+                    384.0,
+                    158.0
+                ],
+                [
+                    384.0,
+                    172.0
+                ],
+                [
+                    50.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "function could be a smarter choice [48].",
+            "confidence": 0.9817285537719727,
+            "box": [
+                [
+                    411.0,
+                    158.0
+                ],
+                [
+                    634.0,
+                    158.0
+                ],
+                [
+                    634.0,
+                    172.0
+                ],
+                [
+                    411.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "tion (S-box) whereas diffusion dissipates the statistical struc",
+            "confidence": 0.9890130162239075,
+            "box": [
+                [
+                    50.0,
+                    173.0
+                ],
+                [
+                    384.0,
+                    173.0
+                ],
+                [
+                    384.0,
+                    188.0
+                ],
+                [
+                    50.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "ture of plaintext over the bulk of ciphertext using permutation",
+            "confidence": 0.9905932545661926,
+            "box": [
+                [
+                    50.0,
+                    190.0
+                ],
+                [
+                    386.0,
+                    190.0
+                ],
+                [
+                    386.0,
+                    205.0
+                ],
+                [
+                    50.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "III. EXISTING LWC ALGORITHMS",
+            "confidence": 0.9839351773262024,
+            "box": [
+                [
+                    412.0,
+                    188.0
+                ],
+                [
+                    606.0,
+                    188.0
+                ],
+                [
+                    606.0,
+                    203.0
+                ],
+                [
+                    412.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "[35], [46]. The stream cipher uses only confusion property",
+            "confidence": 0.9908137917518616,
+            "box": [
+                [
+                    50.0,
+                    206.0
+                ],
+                [
+                    385.0,
+                    206.0
+                ],
+                [
+                    385.0,
+                    221.0
+                ],
+                [
+                    50.0,
+                    221.0
+                ]
+            ]
+        },
+        {
+            "text": "More than fifty symmetric LWC algorithms (plain encryp-",
+            "confidence": 0.9667909145355225,
+            "box": [
+                [
+                    410.0,
+                    205.0
+                ],
+                [
+                    747.0,
+                    207.0
+                ],
+                [
+                    747.0,
+                    223.0
+                ],
+                [
+                    410.0,
+                    221.0
+                ]
+            ]
+        },
+        {
+            "text": "whereas block cipher uses both confusion and diffusion with",
+            "confidence": 0.9961342811584473,
+            "box": [
+                [
+                    50.0,
+                    223.0
+                ],
+                [
+                    386.0,
+                    223.0
+                ],
+                [
+                    386.0,
+                    238.0
+                ],
+                [
+                    50.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "tion) are proposed by various academia, proprietaries and",
+            "confidence": 0.9876019954681396,
+            "box": [
+                [
+                    411.0,
+                    224.0
+                ],
+                [
+                    749.0,
+                    224.0
+                ],
+                [
+                    749.0,
+                    239.0
+                ],
+                [
+                    411.0,
+                    239.0
+                ]
+            ]
+        },
+        {
+            "text": "simple design compared to the stream one. Following the",
+            "confidence": 0.9992060661315918,
+            "box": [
+                [
+                    50.0,
+                    240.0
+                ],
+                [
+                    386.0,
+                    240.0
+                ],
+                [
+                    386.0,
+                    255.0
+                ],
+                [
+                    50.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "government bodies with a focus on reducing cost (memory,",
+            "confidence": 0.997137188911438,
+            "box": [
+                [
+                    411.0,
+                    240.0
+                ],
+                [
+                    748.0,
+                    240.0
+                ],
+                [
+                    748.0,
+                    256.0
+                ],
+                [
+                    411.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "reverse of encryption process to extract the original text is",
+            "confidence": 0.9880800843238831,
+            "box": [
+                [
+                    51.0,
+                    258.0
+                ],
+                [
+                    385.0,
+                    258.0
+                ],
+                [
+                    385.0,
+                    270.0
+                ],
+                [
+                    51.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "processing power, physical area (GE), energy consumption)",
+            "confidence": 0.9989563822746277,
+            "box": [
+                [
+                    411.0,
+                    257.0
+                ],
+                [
+                    748.0,
+                    257.0
+                ],
+                [
+                    748.0,
+                    272.0
+                ],
+                [
+                    411.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "hard in a block cipher whereas stream cipher performs XOR",
+            "confidence": 0.9993443489074707,
+            "box": [
+                [
+                    49.0,
+                    273.0
+                ],
+                [
+                    383.0,
+                    273.0
+                ],
+                [
+                    383.0,
+                    288.0
+                ],
+                [
+                    49.0,
+                    288.0
+                ]
+            ]
+        },
+        {
+            "text": "and enhanced hardware and software performance (latency,",
+            "confidence": 0.9958103895187378,
+            "box": [
+                [
+                    410.0,
+                    272.0
+                ],
+                [
+                    748.0,
+                    273.0
+                ],
+                [
+                    748.0,
+                    289.0
+                ],
+                [
+                    410.0,
+                    288.0
+                ]
+            ]
+        },
+        {
+            "text": "function(s) to encrypt the data that could be easily reverted",
+            "confidence": 0.9977776408195496,
+            "box": [
+                [
+                    49.0,
+                    290.0
+                ],
+                [
+                    386.0,
+                    290.0
+                ],
+                [
+                    386.0,
+                    305.0
+                ],
+                [
+                    49.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "throughput). However, many of them do not concentrate on",
+            "confidence": 0.9794044494628906,
+            "box": [
+                [
+                    411.0,
+                    290.0
+                ],
+                [
+                    748.0,
+                    290.0
+                ],
+                [
+                    748.0,
+                    305.0
+                ],
+                [
+                    411.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "to its original form. In contrary, Hash is a one-way mathe-",
+            "confidence": 0.9815481901168823,
+            "box": [
+                [
+                    49.0,
+                    306.0
+                ],
+                [
+                    385.0,
+                    306.0
+                ],
+                [
+                    385.0,
+                    321.0
+                ],
+                [
+                    49.0,
+                    321.0
+                ]
+            ]
+        },
+        {
+            "text": "security attacks explicitly and only care about performance",
+            "confidence": 0.989619255065918,
+            "box": [
+                [
+                    411.0,
+                    307.0
+                ],
+                [
+                    749.0,
+                    307.0
+                ],
+                [
+                    749.0,
+                    322.0
+                ],
+                [
+                    411.0,
+                    322.0
+                ]
+            ]
+        },
+        {
+            "text": "matical function that transforms unspecified length data into",
+            "confidence": 0.9910943508148193,
+            "box": [
+                [
+                    50.0,
+                    323.0
+                ],
+                [
+                    386.0,
+                    323.0
+                ],
+                [
+                    386.0,
+                    338.0
+                ],
+                [
+                    50.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "and/or implementation cost [13]. The structure-wise categori-",
+            "confidence": 0.985571563243866,
+            "box": [
+                [
+                    411.0,
+                    323.0
+                ],
+                [
+                    747.0,
+                    323.0
+                ],
+                [
+                    747.0,
+                    338.0
+                ],
+                [
+                    411.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "a specified-length bit string (short string) which cannot be",
+            "confidence": 0.9972478747367859,
+            "box": [
+                [
+                    50.0,
+                    341.0
+                ],
+                [
+                    385.0,
+                    341.0
+                ],
+                [
+                    385.0,
+                    352.0
+                ],
+                [
+                    50.0,
+                    352.0
+                ]
+            ]
+        },
+        {
+            "text": "sation of these algorithms is summarised in Table 3. The",
+            "confidence": 0.9711888432502747,
+            "box": [
+                [
+                    411.0,
+                    340.0
+                ],
+                [
+                    748.0,
+                    340.0
+                ],
+                [
+                    748.0,
+                    355.0
+                ],
+                [
+                    411.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "inverted.",
+            "confidence": 0.9971175789833069,
+            "box": [
+                [
+                    49.0,
+                    357.0
+                ],
+                [
+                    98.0,
+                    357.0
+                ],
+                [
+                    98.0,
+                    369.0
+                ],
+                [
+                    49.0,
+                    369.0
+                ]
+            ]
+        },
+        {
+            "text": "following subsections unfold these LWC algorithms category",
+            "confidence": 0.9952411651611328,
+            "box": [
+                [
+                    410.0,
+                    356.0
+                ],
+                [
+                    747.0,
+                    357.0
+                ],
+                [
+                    747.0,
+                    372.0
+                ],
+                [
+                    410.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "For the above reasons, a block cipher is preferred in",
+            "confidence": 0.9871957898139954,
+            "box": [
+                [
+                    61.0,
+                    373.0
+                ],
+                [
+                    386.0,
+                    373.0
+                ],
+                [
+                    386.0,
+                    388.0
+                ],
+                [
+                    61.0,
+                    388.0
+                ]
+            ]
+        },
+        {
+            "text": "wise.",
+            "confidence": 0.9902151823043823,
+            "box": [
+                [
+                    411.0,
+                    374.0
+                ],
+                [
+                    443.0,
+                    374.0
+                ],
+                [
+                    443.0,
+                    389.0
+                ],
+                [
+                    411.0,
+                    389.0
+                ]
+            ]
+        },
+        {
+            "text": "resource-constrained IoT devices over stream cipher. This",
+            "confidence": 0.9996101260185242,
+            "box": [
+                [
+                    49.0,
+                    389.0
+                ],
+                [
+                    386.0,
+                    389.0
+                ],
+                [
+                    386.0,
+                    403.0
+                ],
+                [
+                    49.0,
+                    403.0
+                ]
+            ]
+        },
+        {
+            "text": "paper concentrates on block cipher, mainly symmetric",
+            "confidence": 0.9740809202194214,
+            "box": [
+                [
+                    49.0,
+                    406.0
+                ],
+                [
+                    386.0,
+                    405.0
+                ],
+                [
+                    386.0,
+                    420.0
+                ],
+                [
+                    49.0,
+                    422.0
+                ]
+            ]
+        },
+        {
+            "text": "TABLE 3. Structure wise LWC algorithms.",
+            "confidence": 0.9948639273643494,
+            "box": [
+                [
+                    410.0,
+                    405.0
+                ],
+                [
+                    599.0,
+                    405.0
+                ],
+                [
+                    599.0,
+                    419.0
+                ],
+                [
+                    410.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "lightweight block ciphers. It uses one of the following",
+            "confidence": 0.9708162546157837,
+            "box": [
+                [
+                    49.0,
+                    422.0
+                ],
+                [
+                    388.0,
+                    423.0
+                ],
+                [
+                    387.0,
+                    439.0
+                ],
+                [
+                    49.0,
+                    437.0
+                ]
+            ]
+        },
+        {
+            "text": "structure:",
+            "confidence": 0.9948587417602539,
+            "box": [
+                [
+                    50.0,
+                    441.0
+                ],
+                [
+                    103.0,
+                    441.0
+                ],
+                [
+                    103.0,
+                    452.0
+                ],
+                [
+                    50.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "Structure",
+            "confidence": 0.9977872371673584,
+            "box": [
+                [
+                    419.0,
+                    436.0
+                ],
+                [
+                    466.0,
+                    436.0
+                ],
+                [
+                    466.0,
+                    449.0
+                ],
+                [
+                    419.0,
+                    449.0
+                ]
+            ]
+        },
+        {
+            "text": "Type",
+            "confidence": 0.9929504990577698,
+            "box": [
+                [
+                    424.0,
+                    449.0
+                ],
+                [
+                    444.0,
+                    449.0
+                ],
+                [
+                    444.0,
+                    458.0
+                ],
+                [
+                    424.0,
+                    458.0
+                ]
+            ]
+        },
+        {
+            "text": "Algorithms",
+            "confidence": 0.9995208978652954,
+            "box": [
+                [
+                    477.0,
+                    441.0
+                ],
+                [
+                    527.0,
+                    441.0
+                ],
+                [
+                    527.0,
+                    453.0
+                ],
+                [
+                    477.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "Substitution-Permutation Network (SPN)",
+            "confidence": 0.9986443519592285,
+            "box": [
+                [
+                    75.0,
+                    456.0
+                ],
+                [
+                    307.0,
+                    456.0
+                ],
+                [
+                    307.0,
+                    470.0
+                ],
+                [
+                    75.0,
+                    470.0
+                ]
+            ]
+        },
+        {
+            "text": "Feistel Network (FN)",
+            "confidence": 0.9884008169174194,
+            "box": [
+                [
+                    67.0,
+                    471.0
+                ],
+                [
+                    199.0,
+                    471.0
+                ],
+                [
+                    199.0,
+                    486.0
+                ],
+                [
+                    67.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "NdS",
+            "confidence": 0.9990875720977783,
+            "box": [
+                [
+                    420.0,
+                    468.0
+                ],
+                [
+                    444.0,
+                    468.0
+                ],
+                [
+                    444.0,
+                    484.0
+                ],
+                [
+                    420.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "Noekeon, Iceberg, Puffin-2, Prince, Pride, Print, Klein, Led, Picaro,",
+            "confidence": 0.9952414631843567,
+            "box": [
+                [
+                    476.0,
+                    469.0
+                ],
+                [
+                    738.0,
+                    469.0
+                ],
+                [
+                    738.0,
+                    484.0
+                ],
+                [
+                    476.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "General Feistel Network (GFN)",
+            "confidence": 0.9923461675643921,
+            "box": [
+                [
+                    74.0,
+                    488.0
+                ],
+                [
+                    255.0,
+                    488.0
+                ],
+                [
+                    255.0,
+                    503.0
+                ],
+                [
+                    74.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "Zorro, I-Present, EPCBC",
+            "confidence": 0.9984914660453796,
+            "box": [
+                [
+                    477.0,
+                    481.0
+                ],
+                [
+                    576.0,
+                    481.0
+                ],
+                [
+                    576.0,
+                    492.0
+                ],
+                [
+                    477.0,
+                    492.0
+                ]
+            ]
+        },
+        {
+            "text": "FN",
+            "confidence": 0.9989186525344849,
+            "box": [
+                [
+                    419.0,
+                    496.0
+                ],
+                [
+                    439.0,
+                    496.0
+                ],
+                [
+                    439.0,
+                    511.0
+                ],
+                [
+                    419.0,
+                    511.0
+                ]
+            ]
+        },
+        {
+            "text": "KASUMI, MIBS, LBlock, ITUbee, FeW, GOST, Robin, Fantomas",
+            "confidence": 0.9984885454177856,
+            "box": [
+                [
+                    476.0,
+                    501.0
+                ],
+                [
+                    739.0,
+                    502.0
+                ],
+                [
+                    739.0,
+                    517.0
+                ],
+                [
+                    476.0,
+                    516.0
+                ]
+            ]
+        },
+        {
+            "text": "DESL/DESXL, TEA/XTEA/XXTEA,  Camellia,  Simon, SEA,",
+            "confidence": 0.965549647808075,
+            "box": [
+                [
+                    478.0,
+                    493.0
+                ],
+                [
+                    736.0,
+                    493.0
+                ],
+                [
+                    736.0,
+                    504.0
+                ],
+                [
+                    478.0,
+                    504.0
+                ]
+            ]
+        },
+        {
+            "text": "Add-Rotate-XOR (ARX)",
+            "confidence": 0.9554058909416199,
+            "box": [
+                [
+                    68.0,
+                    505.0
+                ],
+                [
+                    219.0,
+                    505.0
+                ],
+                [
+                    219.0,
+                    520.0
+                ],
+                [
+                    68.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "NonLinear-Feedback Shift Register (NLFSR)",
+            "confidence": 0.9853616952896118,
+            "box": [
+                [
+                    62.0,
+                    521.0
+                ],
+                [
+                    330.0,
+                    521.0
+                ],
+                [
+                    330.0,
+                    536.0
+                ],
+                [
+                    62.0,
+                    536.0
+                ]
+            ]
+        },
+        {
+            "text": "CLEFIA, Piccolo, Twis, Twine, HISEC",
+            "confidence": 0.9857251048088074,
+            "box": [
+                [
+                    476.0,
+                    516.0
+                ],
+                [
+                    631.0,
+                    516.0
+                ],
+                [
+                    631.0,
+                    527.0
+                ],
+                [
+                    476.0,
+                    527.0
+                ]
+            ]
+        },
+        {
+            "text": "ARX",
+            "confidence": 0.9856882095336914,
+            "box": [
+                [
+                    418.0,
+                    528.0
+                ],
+                [
+                    447.0,
+                    528.0
+                ],
+                [
+                    447.0,
+                    538.0
+                ],
+                [
+                    418.0,
+                    538.0
+                ]
+            ]
+        },
+        {
+            "text": "Speck, IDEA, HIGHT, BEST-1, LEA",
+            "confidence": 0.9956345558166504,
+            "box": [
+                [
+                    475.0,
+                    527.0
+                ],
+                [
+                    624.0,
+                    527.0
+                ],
+                [
+                    624.0,
+                    538.0
+                ],
+                [
+                    475.0,
+                    538.0
+                ]
+            ]
+        },
+        {
+            "text": " Hybrid",
+            "confidence": 0.9484758377075195,
+            "box": [
+                [
+                    62.0,
+                    538.0
+                ],
+                [
+                    119.0,
+                    538.0
+                ],
+                [
+                    119.0,
+                    554.0
+                ],
+                [
+                    62.0,
+                    554.0
+                ]
+            ]
+        },
+        {
+            "text": "NLFSR",
+            "confidence": 0.9960819482803345,
+            "box": [
+                [
+                    416.0,
+                    537.0
+                ],
+                [
+                    456.0,
+                    537.0
+                ],
+                [
+                    456.0,
+                    550.0
+                ],
+                [
+                    416.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "text": "KeeLoq, KATAN/KTANTAN, Halka",
+            "confidence": 0.9996111989021301,
+            "box": [
+                [
+                    477.0,
+                    538.0
+                ],
+                [
+                    623.0,
+                    538.0
+                ],
+                [
+                    623.0,
+                    550.0
+                ],
+                [
+                    477.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "text": "Substitution-Permutation network (SPN) tweaks the",
+            "confidence": 0.9808502793312073,
+            "box": [
+                [
+                    61.0,
+                    554.0
+                ],
+                [
+                    386.0,
+                    553.0
+                ],
+                [
+                    386.0,
+                    569.0
+                ],
+                [
+                    61.0,
+                    570.0
+                ]
+            ]
+        },
+        {
+            "text": "Hybrid",
+            "confidence": 0.997645378112793,
+            "box": [
+                [
+                    415.0,
+                    551.0
+                ],
+                [
+                    452.0,
+                    551.0
+                ],
+                [
+                    452.0,
+                    562.0
+                ],
+                [
+                    415.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "Hummingbird, Hummingbird-2, Present-GRP",
+            "confidence": 0.9980603456497192,
+            "box": [
+                [
+                    472.0,
+                    551.0
+                ],
+                [
+                    658.0,
+                    551.0
+                ],
+                [
+                    658.0,
+                    562.0
+                ],
+                [
+                    472.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "data through a set of substitution box and permutation table",
+            "confidence": 0.9929570555686951,
+            "box": [
+                [
+                    50.0,
+                    572.0
+                ],
+                [
+                    386.0,
+                    572.0
+                ],
+                [
+                    386.0,
+                    587.0
+                ],
+                [
+                    50.0,
+                    587.0
+                ]
+            ]
+        },
+        {
+            "text": "and formulates them for the following round. A Feistel net-",
+            "confidence": 0.9968128800392151,
+            "box": [
+                [
+                    50.0,
+                    588.0
+                ],
+                [
+                    386.0,
+                    588.0
+                ],
+                [
+                    386.0,
+                    604.0
+                ],
+                [
+                    50.0,
+                    604.0
+                ]
+            ]
+        },
+        {
+            "text": "work (FN) breaks the input block into equal halves and",
+            "confidence": 0.996636152267456,
+            "box": [
+                [
+                    50.0,
+                    605.0
+                ],
+                [
+                    388.0,
+                    605.0
+                ],
+                [
+                    388.0,
+                    620.0
+                ],
+                [
+                    50.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "A. STRUCTURE WISE LWC ALGORITHMS",
+            "confidence": 0.9681026339530945,
+            "box": [
+                [
+                    412.0,
+                    602.0
+                ],
+                [
+                    645.0,
+                    602.0
+                ],
+                [
+                    645.0,
+                    617.0
+                ],
+                [
+                    412.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "applies diffusion in each round to just one half. In addition,",
+            "confidence": 0.9964566230773926,
+            "box": [
+                [
+                    50.0,
+                    622.0
+                ],
+                [
+                    386.0,
+                    622.0
+                ],
+                [
+                    386.0,
+                    637.0
+                ],
+                [
+                    50.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "text": "1) SUBSTITUTION PERMUTATION NETWORK (SPN)",
+            "confidence": 0.9806744456291199,
+            "box": [
+                [
+                    412.0,
+                    620.0
+                ],
+                [
+                    695.0,
+                    620.0
+                ],
+                [
+                    695.0,
+                    635.0
+                ],
+                [
+                    412.0,
+                    635.0
+                ]
+            ]
+        },
+        {
+            "text": "swapping of two halves happens at the beginning of each",
+            "confidence": 0.9912278056144714,
+            "box": [
+                [
+                    50.0,
+                    638.0
+                ],
+                [
+                    386.0,
+                    638.0
+                ],
+                [
+                    386.0,
+                    653.0
+                ],
+                [
+                    50.0,
+                    653.0
+                ]
+            ]
+        },
+        {
+            "text": "AES [49] is a classic example of SPN based algorithm,",
+            "confidence": 0.9803532958030701,
+            "box": [
+                [
+                    412.0,
+                    638.0
+                ],
+                [
+                    747.0,
+                    638.0
+                ],
+                [
+                    747.0,
+                    653.0
+                ],
+                [
+                    412.0,
+                    653.0
+                ]
+            ]
+        },
+        {
+            "text": "round. The generalized Feistel network (GFN) is an extrap",
+            "confidence": 0.986803412437439,
+            "box": [
+                [
+                    50.0,
+                    655.0
+                ],
+                [
+                    383.0,
+                    655.0
+                ],
+                [
+                    383.0,
+                    670.0
+                ],
+                [
+                    50.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "standardized by NIST, performs on 128-bit block with 128,",
+            "confidence": 0.9986034631729126,
+            "box": [
+                [
+                    411.0,
+                    655.0
+                ],
+                [
+                    747.0,
+                    655.0
+                ],
+                [
+                    747.0,
+                    670.0
+                ],
+                [
+                    411.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "olated version of the classic Feistel network. It splits the input",
+            "confidence": 0.9817476272583008,
+            "box": [
+                [
+                    50.0,
+                    672.0
+                ],
+                [
+                    386.0,
+                    672.0
+                ],
+                [
+                    386.0,
+                    687.0
+                ],
+                [
+                    50.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "192 and 256-bit key variants [50]. The minimum GE require-",
+            "confidence": 0.9875924587249756,
+            "box": [
+                [
+                    414.0,
+                    672.0
+                ],
+                [
+                    747.0,
+                    672.0
+                ],
+                [
+                    747.0,
+                    687.0
+                ],
+                [
+                    414.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "block into a number of sub-blocks and applies the Feistel",
+            "confidence": 0.9945346117019653,
+            "box": [
+                [
+                    49.0,
+                    688.0
+                ],
+                [
+                    386.0,
+                    688.0
+                ],
+                [
+                    386.0,
+                    703.0
+                ],
+                [
+                    49.0,
+                    703.0
+                ]
+            ]
+        },
+        {
+            "text": "ment recorded for AES is around 2400 GEs (23% smaller",
+            "confidence": 0.9827812910079956,
+            "box": [
+                [
+                    411.0,
+                    688.0
+                ],
+                [
+                    748.0,
+                    688.0
+                ],
+                [
+                    748.0,
+                    703.0
+                ],
+                [
+                    411.0,
+                    703.0
+                ]
+            ]
+        },
+        {
+            "text": "functions to every pair of sub-blocks, followed by a cyclic",
+            "confidence": 0.9933190941810608,
+            "box": [
+                [
+                    50.0,
+                    705.0
+                ],
+                [
+                    386.0,
+                    705.0
+                ],
+                [
+                    386.0,
+                    720.0
+                ],
+                [
+                    50.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "than the usual one) [50], which is still heavy for some",
+            "confidence": 0.9824692606925964,
+            "box": [
+                [
+                    411.0,
+                    705.0
+                ],
+                [
+                    749.0,
+                    705.0
+                ],
+                [
+                    749.0,
+                    720.0
+                ],
+                [
+                    411.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "shift proportional to the number of sub-blocks [47]. ARX",
+            "confidence": 0.9951050877571106,
+            "box": [
+                [
+                    50.0,
+                    721.0
+                ],
+                [
+                    385.0,
+                    721.0
+                ],
+                [
+                    385.0,
+                    736.0
+                ],
+                [
+                    50.0,
+                    736.0
+                ]
+            ]
+        },
+        {
+            "text": "small scale real-time applications [35]. It shows the compar-",
+            "confidence": 0.9848057627677917,
+            "box": [
+                [
+                    411.0,
+                    722.0
+                ],
+                [
+                    747.0,
+                    722.0
+                ],
+                [
+                    747.0,
+                    737.0
+                ],
+                [
+                    411.0,
+                    737.0
+                ]
+            ]
+        },
+        {
+            "text": "performs encryption-decryption using addition, rotation and",
+            "confidence": 0.9974106550216675,
+            "box": [
+                [
+                    51.0,
+                    740.0
+                ],
+                [
+                    385.0,
+                    740.0
+                ],
+                [
+                    385.0,
+                    751.0
+                ],
+                [
+                    51.0,
+                    751.0
+                ]
+            ]
+        },
+        {
+            "text": "atively efficient performance when supplied with additional",
+            "confidence": 0.9945301413536072,
+            "box": [
+                [
+                    410.0,
+                    738.0
+                ],
+                [
+                    749.0,
+                    737.0
+                ],
+                [
+                    749.0,
+                    753.0
+                ],
+                [
+                    410.0,
+                    754.0
+                ]
+            ]
+        },
+        {
+            "text": "XOR functions without making use of S-box. Implementation",
+            "confidence": 0.9977582693099976,
+            "box": [
+                [
+                    50.0,
+                    755.0
+                ],
+                [
+                    386.0,
+                    755.0
+                ],
+                [
+                    386.0,
+                    770.0
+                ],
+                [
+                    50.0,
+                    770.0
+                ]
+            ]
+        },
+        {
+            "text": "resources [38].",
+            "confidence": 0.9569209814071655,
+            "box": [
+                [
+                    410.0,
+                    755.0
+                ],
+                [
+                    494.0,
+                    755.0
+                ],
+                [
+                    494.0,
+                    771.0
+                ],
+                [
+                    410.0,
+                    771.0
+                ]
+            ]
+        },
+        {
+            "text": "of ARX is fast and compact but limits in security properties",
+            "confidence": 0.9953152537345886,
+            "box": [
+                [
+                    49.0,
+                    769.0
+                ],
+                [
+                    388.0,
+                    772.0
+                ],
+                [
+                    387.0,
+                    787.0
+                ],
+                [
+                    49.0,
+                    784.0
+                ]
+            ]
+        },
+        {
+            "text": "Another, most hardware and software efficient and",
+            "confidence": 0.9687207341194153,
+            "box": [
+                [
+                    424.0,
+                    771.0
+                ],
+                [
+                    749.0,
+                    770.0
+                ],
+                [
+                    749.0,
+                    785.0
+                ],
+                [
+                    424.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "compared to SPN and Feistel ciphers. Nonlinear feedback",
+            "confidence": 0.9987624287605286,
+            "box": [
+                [
+                    49.0,
+                    788.0
+                ],
+                [
+                    386.0,
+                    788.0
+                ],
+                [
+                    386.0,
+                    802.0
+                ],
+                [
+                    49.0,
+                    802.0
+                ]
+            ]
+        },
+        {
+            "text": "ISO/IEC(29192-2P:2012) approved algorithm is PRESENT.",
+            "confidence": 0.9983883500099182,
+            "box": [
+                [
+                    411.0,
+                    788.0
+                ],
+                [
+                    748.0,
+                    788.0
+                ],
+                [
+                    748.0,
+                    802.0
+                ],
+                [
+                    411.0,
+                    802.0
+                ]
+            ]
+        },
+        {
+            "text": "shift register (NLFSR), applies to both stream and block",
+            "confidence": 0.9994231462478638,
+            "box": [
+                [
+                    50.0,
+                    804.0
+                ],
+                [
+                    386.0,
+                    804.0
+                ],
+                [
+                    386.0,
+                    818.0
+                ],
+                [
+                    50.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "It is Substitution-Permutation network based, uses 64-bit",
+            "confidence": 0.9855336546897888,
+            "box": [
+                [
+                    411.0,
+                    804.0
+                ],
+                [
+                    749.0,
+                    804.0
+                ],
+                [
+                    749.0,
+                    818.0
+                ],
+                [
+                    411.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "ciphers, utilizes the building blocks of stream ciphers whose",
+            "confidence": 0.9915979504585266,
+            "box": [
+                [
+                    49.0,
+                    819.0
+                ],
+                [
+                    386.0,
+                    821.0
+                ],
+                [
+                    386.0,
+                    836.0
+                ],
+                [
+                    49.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "text": "block on two key variants: 80-bit and 128-bit keys with the.",
+            "confidence": 0.9819529056549072,
+            "box": [
+                [
+                    411.0,
+                    821.0
+                ],
+                [
+                    749.0,
+                    821.0
+                ],
+                [
+                    749.0,
+                    835.0
+                ],
+                [
+                    411.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "text": "current state is derived from its prior state which is a nonlinear",
+            "confidence": 0.9792414307594299,
+            "box": [
+                [
+                    50.0,
+                    839.0
+                ],
+                [
+                    386.0,
+                    839.0
+                ],
+                [
+                    386.0,
+                    853.0
+                ],
+                [
+                    50.0,
+                    853.0
+                ]
+            ]
+        },
+        {
+            "text": "GE requirements of 1570 and 1886, respectively [51]. The",
+            "confidence": 0.9859314560890198,
+            "box": [
+                [
+                    411.0,
+                    839.0
+                ],
+                [
+                    748.0,
+                    839.0
+                ],
+                [
+                    748.0,
+                    853.0
+                ],
+                [
+                    411.0,
+                    853.0
+                ]
+            ]
+        },
+        {
+            "text": "feedback value [20]. Hybrid cipher combines any three types",
+            "confidence": 0.9888526797294617,
+            "box": [
+                [
+                    50.0,
+                    855.0
+                ],
+                [
+                    386.0,
+                    855.0
+                ],
+                [
+                    386.0,
+                    869.0
+                ],
+                [
+                    50.0,
+                    869.0
+                ]
+            ]
+        },
+        {
+            "text": "minimum GE requirement noted for a version of PRESENT",
+            "confidence": 0.98802649974823,
+            "box": [
+                [
+                    412.0,
+                    856.0
+                ],
+                [
+                    747.0,
+                    856.0
+                ],
+                [
+                    747.0,
+                    867.0
+                ],
+                [
+                    412.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "(SPN, FN, GFN, ARX, NLFSR) or even mixes block and",
+            "confidence": 0.9879149794578552,
+            "box": [
+                [
+                    50.0,
+                    869.0
+                ],
+                [
+                    386.0,
+                    870.0
+                ],
+                [
+                    386.0,
+                    886.0
+                ],
+                [
+                    50.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "is approx. 1000 GE (encryption only) [52], where it takes",
+            "confidence": 0.9904675483703613,
+            "box": [
+                [
+                    410.0,
+                    870.0
+                ],
+                [
+                    748.0,
+                    870.0
+                ],
+                [
+                    748.0,
+                    886.0
+                ],
+                [
+                    410.0,
+                    886.0
+                ]
+            ]
+        },
+        {
+            "text": "stream property to improve specific characteristics (for exam",
+            "confidence": 0.9981037378311157,
+            "box": [
+                [
+                    50.0,
+                    887.0
+                ],
+                [
+                    384.0,
+                    887.0
+                ],
+                [
+                    384.0,
+                    902.0
+                ],
+                [
+                    50.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "text": "2520-3010 GE to provide an adequate level of security [35]",
+            "confidence": 0.9934227466583252,
+            "box": [
+                [
+                    411.0,
+                    885.0
+                ],
+                [
+                    747.0,
+                    886.0
+                ],
+                [
+                    747.0,
+                    902.0
+                ],
+                [
+                    411.0,
+                    901.0
+                ]
+            ]
+        },
+        {
+            "text": "ple, throughput, energy, GE, etc.) based on its application",
+            "confidence": 0.9952077269554138,
+            "box": [
+                [
+                    49.0,
+                    904.0
+                ],
+                [
+                    386.0,
+                    904.0
+                ],
+                [
+                    386.0,
+                    919.0
+                ],
+                [
+                    49.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "It is a hardware efficient algorithm and uses 4-bit S-boxes",
+            "confidence": 0.9892802834510803,
+            "box": [
+                [
+                    411.0,
+                    904.0
+                ],
+                [
+                    749.0,
+                    904.0
+                ],
+                [
+                    749.0,
+                    919.0
+                ],
+                [
+                    411.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "requirements.",
+            "confidence": 0.9990828037261963,
+            "box": [
+                [
+                    50.0,
+                    923.0
+                ],
+                [
+                    126.0,
+                    923.0
+                ],
+                [
+                    126.0,
+                    935.0
+                ],
+                [
+                    50.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "(substitution layer - replaces eight S-boxes with single S-box)",
+            "confidence": 0.9951638579368591,
+            "box": [
+                [
+                    411.0,
+                    921.0
+                ],
+                [
+                    748.0,
+                    921.0
+                ],
+                [
+                    748.0,
+                    936.0
+                ],
+                [
+                    411.0,
+                    936.0
+                ]
+            ]
+        },
+        {
+            "text": "Out of these structures, SPN and FN are the most popular",
+            "confidence": 0.9907876253128052,
+            "box": [
+                [
+                    62.0,
+                    937.0
+                ],
+                [
+                    386.0,
+                    937.0
+                ],
+                [
+                    386.0,
+                    952.0
+                ],
+                [
+                    62.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "whereas it takes large cycles in software (permutation layer)",
+            "confidence": 0.9929541945457458,
+            "box": [
+                [
+                    412.0,
+                    937.0
+                ],
+                [
+                    748.0,
+                    937.0
+                ],
+                [
+                    748.0,
+                    952.0
+                ],
+                [
+                    412.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "choice due to their flexibility to implement, based on applica-",
+            "confidence": 0.9776524305343628,
+            "box": [
+                [
+                    50.0,
+                    954.0
+                ],
+                [
+                    385.0,
+                    954.0
+                ],
+                [
+                    385.0,
+                    969.0
+                ],
+                [
+                    50.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "which demands an improved version of this [32], [35], [40],",
+            "confidence": 0.9940672516822815,
+            "box": [
+                [
+                    412.0,
+                    954.0
+                ],
+                [
+                    748.0,
+                    954.0
+                ],
+                [
+                    748.0,
+                    969.0
+                ],
+                [
+                    412.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "tion requirements [40]. Although Feistel structures are incor-",
+            "confidence": 0.9929969906806946,
+            "box": [
+                [
+                    50.0,
+                    970.0
+                ],
+                [
+                    385.0,
+                    970.0
+                ],
+                [
+                    385.0,
+                    985.0
+                ],
+                [
+                    50.0,
+                    985.0
+                ]
+            ]
+        },
+        {
+            "text": "[51], [53].",
+            "confidence": 0.9863195419311523,
+            "box": [
+                [
+                    412.0,
+                    971.0
+                ],
+                [
+                    470.0,
+                    971.0
+                ],
+                [
+                    470.0,
+                    984.0
+                ],
+                [
+                    412.0,
+                    984.0
+                ]
+            ]
+        },
+        {
+            "text": "porated easily into low-average power hardware (due to the",
+            "confidence": 0.9970835447311401,
+            "box": [
+                [
+                    50.0,
+                    987.0
+                ],
+                [
+                    386.0,
+                    987.0
+                ],
+                [
+                    386.0,
+                    1003.0
+                ],
+                [
+                    50.0,
+                    1003.0
+                ]
+            ]
+        },
+        {
+            "text": "GIFT [54], an improved version of the PRESENT, was",
+            "confidence": 0.9838493466377258,
+            "box": [
+                [
+                    426.0,
+                    987.0
+                ],
+                [
+                    749.0,
+                    987.0
+                ],
+                [
+                    749.0,
+                    1002.0
+                ],
+                [
+                    426.0,
+                    1002.0
+                ]
+            ]
+        },
+        {
+            "text": "absence of round function in one-half of the states), it usually",
+            "confidence": 0.9917618036270142,
+            "box": [
+                [
+                    49.0,
+                    1004.0
+                ],
+                [
+                    385.0,
+                    1004.0
+                ],
+                [
+                    385.0,
+                    1019.0
+                ],
+                [
+                    49.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "presented in CHES-2017. It offers lighter S-Box with smaller",
+            "confidence": 0.9940729141235352,
+            "box": [
+                [
+                    411.0,
+                    1004.0
+                ],
+                [
+                    749.0,
+                    1004.0
+                ],
+                [
+                    749.0,
+                    1019.0
+                ],
+                [
+                    411.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "VOLUME 9, 202 1",
+            "confidence": 0.9353996515274048,
+            "box": [
+                [
+                    49.0,
+                    1035.0
+                ],
+                [
+                    112.0,
+                    1035.0
+                ],
+                [
+                    112.0,
+                    1047.0
+                ],
+                [
+                    49.0,
+                    1047.0
+                ]
+            ]
+        },
+        {
+            "text": "28181",
+            "confidence": 0.9999719858169556,
+            "box": [
+                [
+                    717.0,
+                    1035.0
+                ],
+                [
+                    749.0,
+                    1035.0
+                ],
+                [
+                    749.0,
+                    1047.0
+                ],
+                [
+                    717.0,
+                    1047.0
+                ]
+            ]
+        }
+    ],
+    "structure": [
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "table",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "table",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other"
+    ]
+}

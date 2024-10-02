@@ -1,0 +1,3480 @@
+{
+    "page_num": 14,
+    "text": [
+        {
+            "text": "IEEE Access",
+            "confidence": 0.9554665088653564,
+            "box": [
+                [
+                    47.0,
+                    20.0
+                ],
+                [
+                    156.0,
+                    23.0
+                ],
+                [
+                    155.0,
+                    46.0
+                ],
+                [
+                    46.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "V. A. Thakor et al.: Lightweight Cryptography Algorithms for Resource-Constrained loT Devices",
+            "confidence": 0.9756077527999878,
+            "box": [
+                [
+                    342.0,
+                    33.0
+                ],
+                [
+                    749.0,
+                    33.0
+                ],
+                [
+                    749.0,
+                    48.0
+                ],
+                [
+                    342.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "[41] K. Mohajerani, R. Haeussler, R. Nagpal, F. Farahmand, A. Abdulgadir,",
+            "confidence": 0.9888157248497009,
+            "box": [
+                [
+                    53.0,
+                    91.0
+                ],
+                [
+                    388.0,
+                    91.0
+                ],
+                [
+                    388.0,
+                    105.0
+                ],
+                [
+                    53.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "[59]C. Beierle, J. Jean, S. Kolbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki,",
+            "confidence": 0.9967491030693054,
+            "box": [
+                [
+                    415.0,
+                    90.0
+                ],
+                [
+                    748.0,
+                    90.0
+                ],
+                [
+                    748.0,
+                    104.0
+                ],
+                [
+                    415.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "J.-P. Kaps, and K. Gaj. (2020). FPGA Benchmarking of Round 2",
+            "confidence": 0.9539538025856018,
+            "box": [
+                [
+                    78.0,
+                    104.0
+                ],
+                [
+                    388.0,
+                    104.0
+                ],
+                [
+                    388.0,
+                    119.0
+                ],
+                [
+                    78.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "P. Sasdrich, and S. M. Sim, \"The skinny family of block ciphers and its",
+            "confidence": 0.9840639233589172,
+            "box": [
+                [
+                    441.0,
+                    105.0
+                ],
+                [
+                    748.0,
+                    105.0
+                ],
+                [
+                    748.0,
+                    117.0
+                ],
+                [
+                    441.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "Candidates in the Nist Lightweight Cryptography Standardization Pro-",
+            "confidence": 0.9928408265113831,
+            "box": [
+                [
+                    80.0,
+                    118.0
+                ],
+                [
+                    385.0,
+                    118.0
+                ],
+                [
+                    385.0,
+                    129.0
+                ],
+                [
+                    80.0,
+                    129.0
+                ]
+            ]
+        },
+        {
+            "text": "low-latency variant mantis, in Proc. 36th Annu. Int. Cryptol. Conf., Part",
+            "confidence": 0.9686866402626038,
+            "box": [
+                [
+                    440.0,
+                    116.0
+                ],
+                [
+                    750.0,
+                    116.0
+                ],
+                [
+                    750.0,
+                    130.0
+                ],
+                [
+                    440.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "cess: Methodology, Metrics, Tools, and Results. [Online]. Available:",
+            "confidence": 0.9907574653625488,
+            "box": [
+                [
+                    78.0,
+                    129.0
+                ],
+                [
+                    388.0,
+                    129.0
+                ],
+                [
+                    388.0,
+                    144.0
+                ],
+                [
+                    78.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "II. Berlin, Germany: Springer, Aug. 2016, pp. 123153. [Online]. Avail-",
+            "confidence": 0.9897504448890686,
+            "box": [
+                [
+                    441.0,
+                    129.0
+                ],
+                [
+                    749.0,
+                    129.0
+                ],
+                [
+                    749.0,
+                    144.0
+                ],
+                [
+                    441.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "https://eprint.iacr.org/2020/1207",
+            "confidence": 0.9935628771781921,
+            "box": [
+                [
+                    77.0,
+                    142.0
+                ],
+                [
+                    216.0,
+                    142.0
+                ],
+                [
+                    216.0,
+                    153.0
+                ],
+                [
+                    77.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "able: https:/link.springer.com/chapter/10.1007/978-3-662-53008-5_5",
+            "confidence": 0.98550945520401,
+            "box": [
+                [
+                    440.0,
+                    142.0
+                ],
+                [
+                    739.0,
+                    142.0
+                ],
+                [
+                    739.0,
+                    156.0
+                ],
+                [
+                    440.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "[42] C. L. C. W. Group er al., Creptrec cryptographic technology guideline",
+            "confidence": 0.9764149785041809,
+            "box": [
+                [
+                    52.0,
+                    155.0
+                ],
+                [
+                    386.0,
+                    156.0
+                ],
+                [
+                    386.0,
+                    172.0
+                ],
+                [
+                    52.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "[60] T. Suzaki, K. Minematsu, S. Morioka, and E. Kobayashi, *Twine:",
+            "confidence": 0.9530326724052429,
+            "box": [
+                [
+                    417.0,
+                    154.0
+                ],
+                [
+                    749.0,
+                    154.0
+                ],
+                [
+                    749.0,
+                    169.0
+                ],
+                [
+                    417.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "(lightweight cryptography), CRYPTREC, Japan, Tech. Rep., Mar. 2017.",
+            "confidence": 0.9820435643196106,
+            "box": [
+                [
+                    78.0,
+                    169.0
+                ],
+                [
+                    388.0,
+                    169.0
+                ],
+                [
+                    388.0,
+                    184.0
+                ],
+                [
+                    78.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "A lightweight, versatile block cipher,\"in Proc. ECRYPT Workshop",
+            "confidence": 0.9777384400367737,
+            "box": [
+                [
+                    443.0,
+                    168.0
+                ],
+                [
+                    749.0,
+                    168.0
+                ],
+                [
+                    749.0,
+                    179.0
+                ],
+                [
+                    443.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "text": "[Online]. Available: https://www.cryptrec.go.jp/en/tech_guidelines.html",
+            "confidence": 0.9927458167076111,
+            "box": [
+                [
+                    77.0,
+                    182.0
+                ],
+                [
+                    385.0,
+                    182.0
+                ],
+                [
+                    385.0,
+                    197.0
+                ],
+                [
+                    77.0,
+                    197.0
+                ]
+            ]
+        },
+        {
+            "text": "Lightw. Cryptogr., 2011, pp. 15.",
+            "confidence": 0.9795321226119995,
+            "box": [
+                [
+                    441.0,
+                    179.0
+                ],
+                [
+                    582.0,
+                    179.0
+                ],
+                [
+                    582.0,
+                    194.0
+                ],
+                [
+                    441.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "[43] Lightweight Cryptography|CSRC. Accessed: Oct. 30, 2020. [Online]",
+            "confidence": 0.9853026866912842,
+            "box": [
+                [
+                    53.0,
+                    197.0
+                ],
+                [
+                    385.0,
+                    197.0
+                ],
+                [
+                    385.0,
+                    212.0
+                ],
+                [
+                    53.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "[61] S. Banik, A. Bogdanov, T. Isobe, K. Shibutani, H. Hiwatari, and",
+            "confidence": 0.977789580821991,
+            "box": [
+                [
+                    417.0,
+                    192.0
+                ],
+                [
+                    750.0,
+                    192.0
+                ],
+                [
+                    750.0,
+                    206.0
+                ],
+                [
+                    417.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "Available: https://csrc.nist.gov/projects/lightweight-cryptography",
+            "confidence": 0.9888904690742493,
+            "box": [
+                [
+                    77.0,
+                    208.0
+                ],
+                [
+                    355.0,
+                    211.0
+                ],
+                [
+                    354.0,
+                    226.0
+                ],
+                [
+                    77.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "T. Akishita, Regaz Zoni, F.: Midori: A block cipher for low energy",
+            "confidence": 0.9844916462898254,
+            "box": [
+                [
+                    440.0,
+                    204.0
+                ],
+                [
+                    749.0,
+                    204.0
+                ],
+                [
+                    749.0,
+                    219.0
+                ],
+                [
+                    440.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "[44] A. Juels and S. A.Weis,  Authenticating pervasive devices with",
+            "confidence": 0.9568572640419006,
+            "box": [
+                [
+                    55.0,
+                    227.0
+                ],
+                [
+                    386.0,
+                    227.0
+                ],
+                [
+                    386.0,
+                    238.0
+                ],
+                [
+                    55.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "(extended version), Cryptol. ePrint Arch., Tech. Rep. 2015/1142, 2015.",
+            "confidence": 0.992723822593689,
+            "box": [
+                [
+                    441.0,
+                    218.0
+                ],
+                [
+                    748.0,
+                    218.0
+                ],
+                [
+                    748.0,
+                    229.0
+                ],
+                [
+                    441.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "human protocols, in Proc. 25th Annu. Int. Cryptol. Conf. Berlin,",
+            "confidence": 0.9598484039306641,
+            "box": [
+                [
+                    78.0,
+                    238.0
+                ],
+                [
+                    385.0,
+                    238.0
+                ],
+                [
+                    385.0,
+                    253.0
+                ],
+                [
+                    78.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "text": "[Online]. Available: https://eprint.iacr.org/2015/1142.pdf",
+            "confidence": 0.9837590456008911,
+            "box": [
+                [
+                    440.0,
+                    229.0
+                ],
+                [
+                    685.0,
+                    229.0
+                ],
+                [
+                    685.0,
+                    244.0
+                ],
+                [
+                    440.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "Germany: Springer, Aug. 2005, pp. 293308. [Online]. Available:",
+            "confidence": 0.964320957660675,
+            "box": [
+                [
+                    78.0,
+                    250.0
+                ],
+                [
+                    388.0,
+                    250.0
+                ],
+                [
+                    388.0,
+                    265.0
+                ],
+                [
+                    78.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "[62]C. H. Lim and T. Korkishko, mCryptonA lightweight block cipher for",
+            "confidence": 0.9917281866073608,
+            "box": [
+                [
+                    417.0,
+                    241.0
+                ],
+                [
+                    750.0,
+                    241.0
+                ],
+                [
+                    750.0,
+                    256.0
+                ],
+                [
+                    417.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "https:/link.springer.com/chapter/10.1007/11535218_18",
+            "confidence": 0.9865525960922241,
+            "box": [
+                [
+                    77.0,
+                    263.0
+                ],
+                [
+                    317.0,
+                    263.0
+                ],
+                [
+                    317.0,
+                    278.0
+                ],
+                [
+                    77.0,
+                    278.0
+                ]
+            ]
+        },
+        {
+            "text": "security of low-cost RFID tags and sensors, in Proc. Int. Workshop Inf.",
+            "confidence": 0.990068793296814,
+            "box": [
+                [
+                    442.0,
+                    256.0
+                ],
+                [
+                    748.0,
+                    256.0
+                ],
+                [
+                    748.0,
+                    267.0
+                ],
+                [
+                    442.0,
+                    267.0
+                ]
+            ]
+        },
+        {
+            "text": "Secur Appl. Berlin, Germany: Springer, 2005, pp. 243258.",
+            "confidence": 0.9792668223381042,
+            "box": [
+                [
+                    442.0,
+                    266.0
+                ],
+                [
+                    694.0,
+                    266.0
+                ],
+                [
+                    694.0,
+                    281.0
+                ],
+                [
+                    442.0,
+                    281.0
+                ]
+            ]
+        },
+        {
+            "text": "[45] W. J. Okello, Q. Liu, F. A. Siddiqui, and C. Zhang, A survey of the",
+            "confidence": 0.9819709062576294,
+            "box": [
+                [
+                    53.0,
+                    278.0
+                ],
+                [
+                    388.0,
+                    278.0
+                ],
+                [
+                    388.0,
+                    292.0
+                ],
+                [
+                    53.0,
+                    292.0
+                ]
+            ]
+        },
+        {
+            "text": "[63] C. H. Lim, A revised version of crypton: Crypton V1. 0, in Proc.",
+            "confidence": 0.9926945567131042,
+            "box": [
+                [
+                    416.0,
+                    279.0
+                ],
+                [
+                    749.0,
+                    279.0
+                ],
+                [
+                    749.0,
+                    294.0
+                ],
+                [
+                    416.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "current state of lightweight cryptography for the Internet of Things,",
+            "confidence": 0.9783732295036316,
+            "box": [
+                [
+                    78.0,
+                    291.0
+                ],
+                [
+                    385.0,
+                    291.0
+                ],
+                [
+                    385.0,
+                    306.0
+                ],
+                [
+                    78.0,
+                    306.0
+                ]
+            ]
+        },
+        {
+            "text": "Int. Workshop Fast Softw. Encryption. Berlin, Germany: Springer, 1999,",
+            "confidence": 0.9904419183731079,
+            "box": [
+                [
+                    440.0,
+                    292.0
+                ],
+                [
+                    749.0,
+                    292.0
+                ],
+                [
+                    749.0,
+                    307.0
+                ],
+                [
+                    440.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "in Proc. Int. Conf. Comput., Inf. Telecommn. Syst. (CITS), Jul. 2017,",
+            "confidence": 0.9757293462753296,
+            "box": [
+                [
+                    80.0,
+                    305.0
+                ],
+                [
+                    386.0,
+                    305.0
+                ],
+                [
+                    386.0,
+                    316.0
+                ],
+                [
+                    80.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "pp. 3145.",
+            "confidence": 0.9893413186073303,
+            "box": [
+                [
+                    440.0,
+                    306.0
+                ],
+                [
+                    488.0,
+                    304.0
+                ],
+                [
+                    489.0,
+                    316.0
+                ],
+                [
+                    440.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "pp. 292296.",
+            "confidence": 0.995216965675354,
+            "box": [
+                [
+                    77.0,
+                    317.0
+                ],
+                [
+                    136.0,
+                    316.0
+                ],
+                [
+                    136.0,
+                    329.0
+                ],
+                [
+                    77.0,
+                    330.0
+                ]
+            ]
+        },
+        {
+            "text": "[64] J. Daemen, M. Peeters, G. Assche, and V. Rijmen, The Noekeon block",
+            "confidence": 0.9677926898002625,
+            "box": [
+                [
+                    417.0,
+                    317.0
+                ],
+                [
+                    749.0,
+                    317.0
+                ],
+                [
+                    749.0,
+                    332.0
+                ],
+                [
+                    417.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "[46] W. Stallings. (2017). Cryptography and Network Security: Principles",
+            "confidence": 0.9937861561775208,
+            "box": [
+                [
+                    53.0,
+                    331.0
+                ],
+                [
+                    386.0,
+                    331.0
+                ],
+                [
+                    386.0,
+                    346.0
+                ],
+                [
+                    53.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "cipher,\" in Proc. 1st Open NESSIE Workshop, 2000, pp. 15.",
+            "confidence": 0.9446406960487366,
+            "box": [
+                [
+                    441.0,
+                    331.0
+                ],
+                [
+                    699.0,
+                    331.0
+                ],
+                [
+                    699.0,
+                    342.0
+                ],
+                [
+                    441.0,
+                    342.0
+                ]
+            ]
+        },
+        {
+            "text": "and Practice. [Online]. Available: https://www.pearson.com/us/higher-",
+            "confidence": 0.9745237827301025,
+            "box": [
+                [
+                    80.0,
+                    346.0
+                ],
+                [
+                    384.0,
+                    346.0
+                ],
+                [
+                    384.0,
+                    357.0
+                ],
+                [
+                    80.0,
+                    357.0
+                ]
+            ]
+        },
+        {
+            "text": "[65] L. Knudsen and H. Raddum, *On Noekeon. Public reports of the",
+            "confidence": 0.9811059832572937,
+            "box": [
+                [
+                    417.0,
+                    342.0
+                ],
+                [
+                    749.0,
+                    342.0
+                ],
+                [
+                    749.0,
+                    357.0
+                ],
+                [
+                    417.0,
+                    357.0
+                ]
+            ]
+        },
+        {
+            "text": "education/product/Stallings-Cryptogra%phy-and-Network-Security-",
+            "confidence": 0.9953887462615967,
+            "box": [
+                [
+                    78.0,
+                    356.0
+                ],
+                [
+                    367.0,
+                    356.0
+                ],
+                [
+                    367.0,
+                    371.0
+                ],
+                [
+                    78.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "Nessie project. Report: NES,\" New Eur. Schemes Signatures, Integrity",
+            "confidence": 0.9817232489585876,
+            "box": [
+                [
+                    441.0,
+                    356.0
+                ],
+                [
+                    748.0,
+                    356.0
+                ],
+                [
+                    748.0,
+                    367.0
+                ],
+                [
+                    441.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": "Principles-and-Practice-6th-Edition/9780133354690.htm%1",
+            "confidence": 0.9958763122558594,
+            "box": [
+                [
+                    78.0,
+                    371.0
+                ],
+                [
+                    334.0,
+                    371.0
+                ],
+                [
+                    334.0,
+                    382.0
+                ],
+                [
+                    78.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "Encryption (NESSIE Project), NES Rep. DOC/UIB/WP3/009/1, 2001.",
+            "confidence": 0.9846636056900024,
+            "box": [
+                [
+                    440.0,
+                    367.0
+                ],
+                [
+                    748.0,
+                    367.0
+                ],
+                [
+                    748.0,
+                    382.0
+                ],
+                [
+                    440.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "[47] T. Suzaki and K. Minematsu, \"Improving the generalized feistel.,",
+            "confidence": 0.9617565274238586,
+            "box": [
+                [
+                    53.0,
+                    384.0
+                ],
+                [
+                    386.0,
+                    384.0
+                ],
+                [
+                    386.0,
+                    399.0
+                ],
+                [
+                    53.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "[Online].Available: https:/www.cosic.esat.kuleuven.be/nessie/reports/",
+            "confidence": 0.9935901761054993,
+            "box": [
+                [
+                    441.0,
+                    381.0
+                ],
+                [
+                    749.0,
+                    381.0
+                ],
+                [
+                    749.0,
+                    392.0
+                ],
+                [
+                    441.0,
+                    392.0
+                ]
+            ]
+        },
+        {
+            "text": "in Proc. 17th Int. Workshop Fast Softw. Encryption. Berlin,",
+            "confidence": 0.9357278347015381,
+            "box": [
+                [
+                    77.0,
+                    396.0
+                ],
+                [
+                    385.0,
+                    396.0
+                ],
+                [
+                    385.0,
+                    410.0
+                ],
+                [
+                    77.0,
+                    410.0
+                ]
+            ]
+        },
+        {
+            "text": "phase1/uibwp3-009.pdf",
+            "confidence": 0.9983296990394592,
+            "box": [
+                [
+                    440.0,
+                    392.0
+                ],
+                [
+                    544.0,
+                    392.0
+                ],
+                [
+                    544.0,
+                    407.0
+                ],
+                [
+                    440.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "Germany: Springer, Feb.2010, pp.1939.[Online].Available:",
+            "confidence": 0.9595879316329956,
+            "box": [
+                [
+                    77.0,
+                    409.0
+                ],
+                [
+                    388.0,
+                    409.0
+                ],
+                [
+                    388.0,
+                    424.0
+                ],
+                [
+                    77.0,
+                    424.0
+                ]
+            ]
+        },
+        {
+            "text": "[66] F.-X. Standaert, G. Piret, G. Rouvroy, J.-J. Quisquater, and J.-D. Legat,",
+            "confidence": 0.955174446105957,
+            "box": [
+                [
+                    416.0,
+                    403.0
+                ],
+                [
+                    749.0,
+                    405.0
+                ],
+                [
+                    749.0,
+                    419.0
+                ],
+                [
+                    416.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "https://link.springer.com/chapter/10.1007/978-3-642-13858-4_2",
+            "confidence": 0.9952337145805359,
+            "box": [
+                [
+                    78.0,
+                    424.0
+                ],
+                [
+                    350.0,
+                    424.0
+                ],
+                [
+                    350.0,
+                    435.0
+                ],
+                [
+                    78.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "ICEBERG: An involutional cipher efficient for block encryption in",
+            "confidence": 0.9986091256141663,
+            "box": [
+                [
+                    443.0,
+                    417.0
+                ],
+                [
+                    750.0,
+                    417.0
+                ],
+                [
+                    750.0,
+                    432.0
+                ],
+                [
+                    443.0,
+                    432.0
+                ]
+            ]
+        },
+        {
+            "text": "[48] S. Banik, A. Bogdanov, T. Isobe, K. Shibutani, H. Hiwatari, T. Akishita,",
+            "confidence": 0.9815120100975037,
+            "box": [
+                [
+                    53.0,
+                    437.0
+                ],
+                [
+                    386.0,
+                    437.0
+                ],
+                [
+                    386.0,
+                    452.0
+                ],
+                [
+                    53.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "reconfigurable hardware,\" in Proc. Int. Workshop Fast Softw. Encryption.",
+            "confidence": 0.9921576976776123,
+            "box": [
+                [
+                    442.0,
+                    431.0
+                ],
+                [
+                    748.0,
+                    431.0
+                ],
+                [
+                    748.0,
+                    442.0
+                ],
+                [
+                    442.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "Berlin, Germany: Springer, 2004, pp. 279298.",
+            "confidence": 0.9818701148033142,
+            "box": [
+                [
+                    440.0,
+                    442.0
+                ],
+                [
+                    643.0,
+                    442.0
+                ],
+                [
+                    643.0,
+                    457.0
+                ],
+                [
+                    440.0,
+                    457.0
+                ]
+            ]
+        },
+        {
+            "text": "2Ist Int. Conf. Theory Appl. Cryptol. Inf. Secur., Part II. Berlin,",
+            "confidence": 0.9238240718841553,
+            "box": [
+                [
+                    78.0,
+                    462.0
+                ],
+                [
+                    385.0,
+                    462.0
+                ],
+                [
+                    385.0,
+                    477.0
+                ],
+                [
+                    78.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "[67] H. Cheng and H. M. Heys, Compact ASIC implementation of the",
+            "confidence": 0.9782946109771729,
+            "box": [
+                [
+                    417.0,
+                    454.0
+                ],
+                [
+                    750.0,
+                    454.0
+                ],
+                [
+                    750.0,
+                    469.0
+                ],
+                [
+                    417.0,
+                    469.0
+                ]
+            ]
+        },
+        {
+            "text": "ICEBERG block cipher with concurrent error detection, in Proc. IEEE",
+            "confidence": 0.9941038489341736,
+            "box": [
+                [
+                    439.0,
+                    466.0
+                ],
+                [
+                    749.0,
+                    467.0
+                ],
+                [
+                    749.0,
+                    482.0
+                ],
+                [
+                    439.0,
+                    481.0
+                ]
+            ]
+        },
+        {
+            "text": "Germany: Springer, Nov./Dec. 2015, pp. 411436. [Online]. Available:",
+            "confidence": 0.993288516998291,
+            "box": [
+                [
+                    80.0,
+                    477.0
+                ],
+                [
+                    386.0,
+                    477.0
+                ],
+                [
+                    386.0,
+                    488.0
+                ],
+                [
+                    80.0,
+                    488.0
+                ]
+            ]
+        },
+        {
+            "text": "https:/link.springer.com/chapter/10.1007/978-3-662-48800-3_17",
+            "confidence": 0.9846588373184204,
+            "box": [
+                [
+                    77.0,
+                    487.0
+                ],
+                [
+                    358.0,
+                    487.0
+                ],
+                [
+                    358.0,
+                    502.0
+                ],
+                [
+                    77.0,
+                    502.0
+                ]
+            ]
+        },
+        {
+            "text": "Int. Symp. Circuits Syst., May 2008, pp. 29212924.",
+            "confidence": 0.9863449931144714,
+            "box": [
+                [
+                    440.0,
+                    479.0
+                ],
+                [
+                    664.0,
+                    479.0
+                ],
+                [
+                    664.0,
+                    494.0
+                ],
+                [
+                    440.0,
+                    494.0
+                ]
+            ]
+        },
+        {
+            "text": "[68] C. Wang and H. M. Heys, An ultra compact block cipher for serialized",
+            "confidence": 0.986788272857666,
+            "box": [
+                [
+                    416.0,
+                    492.0
+                ],
+                [
+                    750.0,
+                    492.0
+                ],
+                [
+                    750.0,
+                    507.0
+                ],
+                [
+                    416.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "architecture implementations, in Proc. Can. Conf. Electr: Comput. Eng.,",
+            "confidence": 0.9876193404197693,
+            "box": [
+                [
+                    441.0,
+                    504.0
+                ],
+                [
+                    749.0,
+                    504.0
+                ],
+                [
+                    749.0,
+                    519.0
+                ],
+                [
+                    441.0,
+                    519.0
+                ]
+            ]
+        },
+        {
+            "text": "cess. Standards, vol. 197, no. 441, p. 0311, 2001.",
+            "confidence": 0.991214394569397,
+            "box": [
+                [
+                    78.0,
+                    517.0
+                ],
+                [
+                    289.0,
+                    517.0
+                ],
+                [
+                    289.0,
+                    528.0
+                ],
+                [
+                    78.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "May 2009, pp. 10851090.",
+            "confidence": 0.9940149188041687,
+            "box": [
+                [
+                    440.0,
+                    517.0
+                ],
+                [
+                    560.0,
+                    516.0
+                ],
+                [
+                    560.0,
+                    530.0
+                ],
+                [
+                    440.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "[50] A. Moradi, A. Poschmann, S. Ling, C. Paar, and H. Wang, Push-",
+            "confidence": 0.9855307340621948,
+            "box": [
+                [
+                    53.0,
+                    532.0
+                ],
+                [
+                    386.0,
+                    532.0
+                ],
+                [
+                    386.0,
+                    546.0
+                ],
+                [
+                    53.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "[69] H. Cheng, H. M. Heys, and C. Wang, PUFFIN: A novel compact block",
+            "confidence": 0.9867070317268372,
+            "box": [
+                [
+                    416.0,
+                    528.0
+                ],
+                [
+                    750.0,
+                    528.0
+                ],
+                [
+                    750.0,
+                    544.0
+                ],
+                [
+                    416.0,
+                    544.0
+                ]
+            ]
+        },
+        {
+            "text": "ing the limits: A very compact and a threshold implementation of",
+            "confidence": 0.9880552291870117,
+            "box": [
+                [
+                    80.0,
+                    545.0
+                ],
+                [
+                    386.0,
+                    545.0
+                ],
+                [
+                    386.0,
+                    556.0
+                ],
+                [
+                    80.0,
+                    556.0
+                ]
+            ]
+        },
+        {
+            "text": "cipher targeted to embedded digital systems, in Proc. 1Ith EUROMI-",
+            "confidence": 0.9897107481956482,
+            "box": [
+                [
+                    441.0,
+                    542.0
+                ],
+                [
+                    748.0,
+                    542.0
+                ],
+                [
+                    748.0,
+                    556.0
+                ],
+                [
+                    441.0,
+                    556.0
+                ]
+            ]
+        },
+        {
+            "text": "AES,\" in Proc. 30th Annu. Int. Conf. Theory Appl. Cryptograph. Techn.",
+            "confidence": 0.962081789970398,
+            "box": [
+                [
+                    80.0,
+                    558.0
+                ],
+                [
+                    385.0,
+                    558.0
+                ],
+                [
+                    385.0,
+                    569.0
+                ],
+                [
+                    80.0,
+                    569.0
+                ]
+            ]
+        },
+        {
+            "text": "CRO Conf. Digit. Syst. Design Archit., Methods Tools, 2008, pp. 383390.",
+            "confidence": 0.9919531345367432,
+            "box": [
+                [
+                    440.0,
+                    554.0
+                ],
+                [
+                    749.0,
+                    554.0
+                ],
+                [
+                    749.0,
+                    569.0
+                ],
+                [
+                    440.0,
+                    569.0
+                ]
+            ]
+        },
+        {
+            "text": "Berlin, Germany: Springer, May 2011, pp. 6988. [Online]. Available:",
+            "confidence": 0.9885191321372986,
+            "box": [
+                [
+                    78.0,
+                    570.0
+                ],
+                [
+                    386.0,
+                    570.0
+                ],
+                [
+                    386.0,
+                    581.0
+                ],
+                [
+                    78.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "[70] M. R. Albrecht, B. Driessen, E. B. Kavun, G. Leander, C. Paar, and",
+            "confidence": 0.9687292575836182,
+            "box": [
+                [
+                    417.0,
+                    569.0
+                ],
+                [
+                    748.0,
+                    569.0
+                ],
+                [
+                    748.0,
+                    580.0
+                ],
+                [
+                    417.0,
+                    580.0
+                ]
+            ]
+        },
+        {
+            "text": "https:/link.springer.com/chapter/10.1007/978-3-642-20465-4_6",
+            "confidence": 0.9873244762420654,
+            "box": [
+                [
+                    77.0,
+                    581.0
+                ],
+                [
+                    351.0,
+                    581.0
+                ],
+                [
+                    351.0,
+                    596.0
+                ],
+                [
+                    77.0,
+                    596.0
+                ]
+            ]
+        },
+        {
+            "text": "T. Yalcin, Block ciphersfocus on the linear layer (feat. pride), in Proc.",
+            "confidence": 0.9892823696136475,
+            "box": [
+                [
+                    442.0,
+                    580.0
+                ],
+                [
+                    748.0,
+                    580.0
+                ],
+                [
+                    748.0,
+                    592.0
+                ],
+                [
+                    442.0,
+                    592.0
+                ]
+            ]
+        },
+        {
+            "text": "[51] A. Bogdanov, L. R. Knudsen, G. Leander, C. Paar, A. Poschmann,",
+            "confidence": 0.9857985973358154,
+            "box": [
+                [
+                    52.0,
+                    595.0
+                ],
+                [
+                    386.0,
+                    596.0
+                ],
+                [
+                    386.0,
+                    611.0
+                ],
+                [
+                    52.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "text": "Anu. Cryptol. Conf. Cham, Switzerland: Springer, 2014, pp. 5776.",
+            "confidence": 0.9717040061950684,
+            "box": [
+                [
+                    443.0,
+                    594.0
+                ],
+                [
+                    730.0,
+                    594.0
+                ],
+                [
+                    730.0,
+                    605.0
+                ],
+                [
+                    443.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "M. J. Robshaw, Y. Seurin, and C. Vikkelsoe, *Present: An ultra-",
+            "confidence": 0.9568873047828674,
+            "box": [
+                [
+                    80.0,
+                    611.0
+                ],
+                [
+                    385.0,
+                    611.0
+                ],
+                [
+                    385.0,
+                    622.0
+                ],
+                [
+                    80.0,
+                    622.0
+                ]
+            ]
+        },
+        {
+            "text": "[71] J. Borgho er al., PRINCEA low-latency block cipher for per-",
+            "confidence": 0.9561759233474731,
+            "box": [
+                [
+                    417.0,
+                    605.0
+                ],
+                [
+                    748.0,
+                    605.0
+                ],
+                [
+                    748.0,
+                    620.0
+                ],
+                [
+                    417.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "lightweight block cipher, in Proc.9th Int. Workshop Crypto-",
+            "confidence": 0.9565169215202332,
+            "box": [
+                [
+                    78.0,
+                    621.0
+                ],
+                [
+                    386.0,
+                    621.0
+                ],
+                [
+                    386.0,
+                    636.0
+                ],
+                [
+                    78.0,
+                    636.0
+                ]
+            ]
+        },
+        {
+            "text": "graph. Hardw. Embedded Syst. Berlin, Germany: Springer, Sep. 2007,",
+            "confidence": 0.9865933060646057,
+            "box": [
+                [
+                    76.0,
+                    635.0
+                ],
+                [
+                    386.0,
+                    634.0
+                ],
+                [
+                    386.0,
+                    648.0
+                ],
+                [
+                    76.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "Cryptol.Inf.Secur(ASIACRYPT), Adv.Cryptol.Springer, 2012,",
+            "confidence": 0.9733116626739502,
+            "box": [
+                [
+                    443.0,
+                    631.0
+                ],
+                [
+                    748.0,
+                    631.0
+                ],
+                [
+                    748.0,
+                    643.0
+                ],
+                [
+                    443.0,
+                    643.0
+                ]
+            ]
+        },
+        {
+            "text": "pp. 450466. [Online]. Available: https:/link.springer.com/chapter/10.",
+            "confidence": 0.9726070165634155,
+            "box": [
+                [
+                    78.0,
+                    646.0
+                ],
+                [
+                    386.0,
+                    646.0
+                ],
+                [
+                    386.0,
+                    661.0
+                ],
+                [
+                    78.0,
+                    661.0
+                ]
+            ]
+        },
+        {
+            "text": "pp. 208225. [Online]. Available: https://link.springer.com/chapter/10.",
+            "confidence": 0.9843220114707947,
+            "box": [
+                [
+                    440.0,
+                    643.0
+                ],
+                [
+                    749.0,
+                    641.0
+                ],
+                [
+                    749.0,
+                    656.0
+                ],
+                [
+                    440.0,
+                    657.0
+                ]
+            ]
+        },
+        {
+            "text": "1007/978-3-540-74735-2_31",
+            "confidence": 0.9713963866233826,
+            "box": [
+                [
+                    80.0,
+                    661.0
+                ],
+                [
+                    202.0,
+                    661.0
+                ],
+                [
+                    202.0,
+                    672.0
+                ],
+                [
+                    80.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "1007/978-3-642-34961-4_14",
+            "confidence": 0.986581563949585,
+            "box": [
+                [
+                    441.0,
+                    653.0
+                ],
+                [
+                    567.0,
+                    654.0
+                ],
+                [
+                    567.0,
+                    669.0
+                ],
+                [
+                    441.0,
+                    668.0
+                ]
+            ]
+        },
+        {
+            "text": "[52]C. Rolfes, A. Poschmann, G. Leander, and C. Paar, Ultra-lightweight",
+            "confidence": 0.9901039004325867,
+            "box": [
+                [
+                    56.0,
+                    675.0
+                ],
+                [
+                    386.0,
+                    675.0
+                ],
+                [
+                    386.0,
+                    687.0
+                ],
+                [
+                    56.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "[72] L.Batina, A.Das, B.Ege, E.B. Kavun, N.Mentens, C. Paar,",
+            "confidence": 0.9199503660202026,
+            "box": [
+                [
+                    417.0,
+                    668.0
+                ],
+                [
+                    749.0,
+                    668.0
+                ],
+                [
+                    749.0,
+                    682.0
+                ],
+                [
+                    417.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "implementations for smart devices-security for 1000 gate equivalents,",
+            "confidence": 0.982985258102417,
+            "box": [
+                [
+                    78.0,
+                    687.0
+                ],
+                [
+                    385.0,
+                    687.0
+                ],
+                [
+                    385.0,
+                    702.0
+                ],
+                [
+                    78.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "I. Verbauwhede, and T. and Yalgin, *Dietary recommendations for",
+            "confidence": 0.9590498805046082,
+            "box": [
+                [
+                    441.0,
+                    680.0
+                ],
+                [
+                    748.0,
+                    680.0
+                ],
+                [
+                    748.0,
+                    691.0
+                ],
+                [
+                    441.0,
+                    691.0
+                ]
+            ]
+        },
+        {
+            "text": "in Proc. 8th IFIP WG 8.8/I1.2 Int. Conf. Smart Card Res. Adv. Appl.",
+            "confidence": 0.9789847731590271,
+            "box": [
+                [
+                    78.0,
+                    698.0
+                ],
+                [
+                    385.0,
+                    699.0
+                ],
+                [
+                    385.0,
+                    714.0
+                ],
+                [
+                    78.0,
+                    713.0
+                ]
+            ]
+        },
+        {
+            "text": "lightweight block ciphers: Power, energy and area analysis of recently",
+            "confidence": 0.9958206415176392,
+            "box": [
+                [
+                    442.0,
+                    694.0
+                ],
+                [
+                    748.0,
+                    694.0
+                ],
+                [
+                    748.0,
+                    705.0
+                ],
+                [
+                    442.0,
+                    705.0
+                ]
+            ]
+        },
+        {
+            "text": "Berlin, Germany: Springer, Sep. 2008, pp. 89103. [Online]. Available:",
+            "confidence": 0.9861379265785217,
+            "box": [
+                [
+                    80.0,
+                    714.0
+                ],
+                [
+                    386.0,
+                    714.0
+                ],
+                [
+                    386.0,
+                    725.0
+                ],
+                [
+                    80.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "developed architectures,\" in Proc. Int. Workshop Radio Freg. Identificat.,",
+            "confidence": 0.9923527836799622,
+            "box": [
+                [
+                    442.0,
+                    706.0
+                ],
+                [
+                    748.0,
+                    706.0
+                ],
+                [
+                    748.0,
+                    717.0
+                ],
+                [
+                    442.0,
+                    717.0
+                ]
+            ]
+        },
+        {
+            "text": "https:/link.springer.com/chapter/10.1007/978-3-540-85893-5_7",
+            "confidence": 0.9880072474479675,
+            "box": [
+                [
+                    78.0,
+                    725.0
+                ],
+                [
+                    350.0,
+                    724.0
+                ],
+                [
+                    350.0,
+                    737.0
+                ],
+                [
+                    78.0,
+                    738.0
+                ]
+            ]
+        },
+        {
+            "text": "Secur. Privacy Issues. Berlin, Germany: Springer, 2013, pp. 103112.",
+            "confidence": 0.9868883490562439,
+            "box": [
+                [
+                    440.0,
+                    717.0
+                ],
+                [
+                    738.0,
+                    717.0
+                ],
+                [
+                    738.0,
+                    732.0
+                ],
+                [
+                    440.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "[53] W. Zhang, Z. Bao, D. Lin, V. Rijmen, B. Yang, and I. Verbauwhede,",
+            "confidence": 0.9877222180366516,
+            "box": [
+                [
+                    55.0,
+                    740.0
+                ],
+                [
+                    386.0,
+                    740.0
+                ],
+                [
+                    386.0,
+                    755.0
+                ],
+                [
+                    55.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "[73]L.",
+            "confidence": 0.947643518447876,
+            "box": [
+                [
+                    418.0,
+                    731.0
+                ],
+                [
+                    457.0,
+                    731.0
+                ],
+                [
+                    457.0,
+                    742.0
+                ],
+                [
+                    418.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "Knudsen,",
+            "confidence": 0.9795827865600586,
+            "box": [
+                [
+                    459.0,
+                    731.0
+                ],
+                [
+                    507.0,
+                    731.0
+                ],
+                [
+                    507.0,
+                    742.0
+                ],
+                [
+                    459.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "Leander,",
+            "confidence": 0.9948707818984985,
+            "box": [
+                [
+                    526.0,
+                    731.0
+                ],
+                [
+                    574.0,
+                    731.0
+                ],
+                [
+                    574.0,
+                    742.0
+                ],
+                [
+                    526.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "Poschmann,",
+            "confidence": 0.9987772107124329,
+            "box": [
+                [
+                    593.0,
+                    731.0
+                ],
+                [
+                    653.0,
+                    731.0
+                ],
+                [
+                    653.0,
+                    742.0
+                ],
+                [
+                    593.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "andM.Robshaw,",
+            "confidence": 0.9625459909439087,
+            "box": [
+                [
+                    651.0,
+                    731.0
+                ],
+                [
+                    748.0,
+                    731.0
+                ],
+                [
+                    748.0,
+                    742.0
+                ],
+                [
+                    651.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "Printcipher: A block cipher for IC-printing,\" in Proc. Int. Workshop",
+            "confidence": 0.9728876948356628,
+            "box": [
+                [
+                    443.0,
+                    742.0
+                ],
+                [
+                    749.0,
+                    742.0
+                ],
+                [
+                    749.0,
+                    757.0
+                ],
+                [
+                    443.0,
+                    757.0
+                ]
+            ]
+        },
+        {
+            "text": "RECTANGLE: A bit-slice lightweight block cipher suitable for multiple",
+            "confidence": 0.9891255497932434,
+            "box": [
+                [
+                    80.0,
+                    753.0
+                ],
+                [
+                    386.0,
+                    753.0
+                ],
+                [
+                    386.0,
+                    767.0
+                ],
+                [
+                    80.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "Cryptograph.Hardw.Embedded Syst.(CHES).Springer, 2010,",
+            "confidence": 0.9692317247390747,
+            "box": [
+                [
+                    441.0,
+                    754.0
+                ],
+                [
+                    750.0,
+                    754.0
+                ],
+                [
+                    750.0,
+                    768.0
+                ],
+                [
+                    441.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "platforms, Sci. China Inf. Sci., vol. 58, no. 12, pp. 115, Dec. 2015.",
+            "confidence": 0.97803795337677,
+            "box": [
+                [
+                    77.0,
+                    765.0
+                ],
+                [
+                    369.0,
+                    764.0
+                ],
+                [
+                    369.0,
+                    779.0
+                ],
+                [
+                    77.0,
+                    780.0
+                ]
+            ]
+        },
+        {
+            "text": "pp. 1632. [Online]. Available: https:/link.springer.com/chapter/10.1007/",
+            "confidence": 0.9859216213226318,
+            "box": [
+                [
+                    440.0,
+                    767.0
+                ],
+                [
+                    752.0,
+                    767.0
+                ],
+                [
+                    752.0,
+                    782.0
+                ],
+                [
+                    440.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "text": "[54] S. Banik, S. K. Pandey, T. Peyrin, Y. Sasaki, S. Sim, and Y. Todo. (2007).",
+            "confidence": 0.9891735911369324,
+            "box": [
+                [
+                    53.0,
+                    780.0
+                ],
+                [
+                    385.0,
+                    780.0
+                ],
+                [
+                    385.0,
+                    794.0
+                ],
+                [
+                    53.0,
+                    794.0
+                ]
+            ]
+        },
+        {
+            "text": "978-3-642-15031-9_2",
+            "confidence": 0.9385575652122498,
+            "box": [
+                [
+                    441.0,
+                    781.0
+                ],
+                [
+                    538.0,
+                    781.0
+                ],
+                [
+                    538.0,
+                    792.0
+                ],
+                [
+                    441.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "Gift: A Small Present Towards Reaching the Limit of Lightweight Encryp-",
+            "confidence": 0.9759442806243896,
+            "box": [
+                [
+                    77.0,
+                    792.0
+                ],
+                [
+                    385.0,
+                    793.0
+                ],
+                [
+                    385.0,
+                    808.0
+                ],
+                [
+                    77.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "[74] Z. Gong, S. Nikova, and Y. W. Law, KLEIN: A new family of",
+            "confidence": 0.9728795886039734,
+            "box": [
+                [
+                    416.0,
+                    792.0
+                ],
+                [
+                    750.0,
+                    792.0
+                ],
+                [
+                    750.0,
+                    807.0
+                ],
+                [
+                    416.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "rion (Full Version). [Online]. Available: https://infoscience.epfl.ch/record",
+            "confidence": 0.992176353931427,
+            "box": [
+                [
+                    80.0,
+                    807.0
+                ],
+                [
+                    386.0,
+                    807.0
+                ],
+                [
+                    386.0,
+                    818.0
+                ],
+                [
+                    80.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "lightweight block ciphers,\" in Proc. Int. Workshop Radio Freg. Identi-",
+            "confidence": 0.9840710163116455,
+            "box": [
+                [
+                    442.0,
+                    806.0
+                ],
+                [
+                    748.0,
+                    806.0
+                ],
+                [
+                    748.0,
+                    817.0
+                ],
+                [
+                    442.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "[55]S. Banik, A. Chakraborti, T. Iwata, K. Minematsu, M. Nandi, T. Peyrin,",
+            "confidence": 0.9785453081130981,
+            "box": [
+                [
+                    55.0,
+                    823.0
+                ],
+                [
+                    385.0,
+                    823.0
+                ],
+                [
+                    385.0,
+                    834.0
+                ],
+                [
+                    55.0,
+                    834.0
+                ]
+            ]
+        },
+        {
+            "text": "ficat., Secur. Privacy Issues. Berlin, Germany: Springer, 2011, pp. 118.",
+            "confidence": 0.9805686473846436,
+            "box": [
+                [
+                    440.0,
+                    816.0
+                ],
+                [
+                    748.0,
+                    816.0
+                ],
+                [
+                    748.0,
+                    831.0
+                ],
+                [
+                    440.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "Y. Sasaki, S. M. Sim, and Y. Todo, GIFT-COFB,\"Submission Round,",
+            "confidence": 0.9788667559623718,
+            "box": [
+                [
+                    80.0,
+                    835.0
+                ],
+                [
+                    386.0,
+                    835.0
+                ],
+                [
+                    386.0,
+                    847.0
+                ],
+                [
+                    80.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "[75] J. Guo, T. Peyrin, A. Poschmann, and M. Robshaw, *The LED block",
+            "confidence": 0.9876618385314941,
+            "box": [
+                [
+                    416.0,
+                    830.0
+                ],
+                [
+                    749.0,
+                    830.0
+                ],
+                [
+                    749.0,
+                    844.0
+                ],
+                [
+                    416.0,
+                    844.0
+                ]
+            ]
+        },
+        {
+            "text": "vol. 1, p. 29, Mar. 2019.",
+            "confidence": 0.9835652709007263,
+            "box": [
+                [
+                    80.0,
+                    848.0
+                ],
+                [
+                    181.0,
+                    848.0
+                ],
+                [
+                    181.0,
+                    859.0
+                ],
+                [
+                    80.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "cipher, in Proc. Int. workshop Cryptograph. Hardw. Embedded Syst.",
+            "confidence": 0.9856896996498108,
+            "box": [
+                [
+                    441.0,
+                    842.0
+                ],
+                [
+                    749.0,
+                    842.0
+                ],
+                [
+                    749.0,
+                    857.0
+                ],
+                [
+                    441.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "[56] Y. Liu and Y. Sasaki, Related-key boomerang attacks on gift",
+            "confidence": 0.9537389278411865,
+            "box": [
+                [
+                    53.0,
+                    861.0
+                ],
+                [
+                    388.0,
+                    861.0
+                ],
+                [
+                    388.0,
+                    876.0
+                ],
+                [
+                    53.0,
+                    876.0
+                ]
+            ]
+        },
+        {
+            "text": "Berlin, Germany: Springer, 2011, pp. 326341.",
+            "confidence": 0.9868797659873962,
+            "box": [
+                [
+                    440.0,
+                    855.0
+                ],
+                [
+                    643.0,
+                    855.0
+                ],
+                [
+                    643.0,
+                    869.0
+                ],
+                [
+                    440.0,
+                    869.0
+                ]
+            ]
+        },
+        {
+            "text": "automated",
+            "confidence": 0.9215297698974609,
+            "box": [
+                [
+                    101.0,
+                    876.0
+                ],
+                [
+                    159.0,
+                    876.0
+                ],
+                [
+                    159.0,
+                    887.0
+                ],
+                [
+                    101.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "trailsearchincluding cteffect,",
+            "confidence": 0.8009008765220642,
+            "box": [
+                [
+                    156.0,
+                    876.0
+                ],
+                [
+                    343.0,
+                    876.0
+                ],
+                [
+                    343.0,
+                    887.0
+                ],
+                [
+                    156.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "inProc",
+            "confidence": 0.9956886172294617,
+            "box": [
+                [
+                    339.0,
+                    876.0
+                ],
+                [
+                    384.0,
+                    876.0
+                ],
+                [
+                    384.0,
+                    887.0
+                ],
+                [
+                    339.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "[76] J. Guo, T. Peyrin, and A. Poschmann, The PHOrON family of",
+            "confidence": 0.9888371825218201,
+            "box": [
+                [
+                    416.0,
+                    867.0
+                ],
+                [
+                    750.0,
+                    867.0
+                ],
+                [
+                    750.0,
+                    882.0
+                ],
+                [
+                    416.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "24th Australas.Conf.Inf. Secur.Privacy (ACISP).Cham,",
+            "confidence": 0.9472712278366089,
+            "box": [
+                [
+                    77.0,
+                    885.0
+                ],
+                [
+                    386.0,
+                    886.0
+                ],
+                [
+                    386.0,
+                    901.0
+                ],
+                [
+                    77.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "with",
+            "confidence": 0.9882172346115112,
+            "box": [
+                [
+                    81.0,
+                    877.0
+                ],
+                [
+                    102.0,
+                    877.0
+                ],
+                [
+                    102.0,
+                    886.0
+                ],
+                [
+                    81.0,
+                    886.0
+                ]
+            ]
+        },
+        {
+            "text": "lightweight hash functions,\" in Proc. Annu. Cryptol. Conf. Berlin,",
+            "confidence": 0.9627082347869873,
+            "box": [
+                [
+                    441.0,
+                    882.0
+                ],
+                [
+                    748.0,
+                    882.0
+                ],
+                [
+                    748.0,
+                    893.0
+                ],
+                [
+                    441.0,
+                    893.0
+                ]
+            ]
+        },
+        {
+            "text": "Switzerland: Springer, Jul. 2019, pp. 555572. [Online]. Available:",
+            "confidence": 0.9775709509849548,
+            "box": [
+                [
+                    77.0,
+                    899.0
+                ],
+                [
+                    388.0,
+                    899.0
+                ],
+                [
+                    388.0,
+                    913.0
+                ],
+                [
+                    77.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "Germany: Springer, 2011, pp. 222239.",
+            "confidence": 0.9782291054725647,
+            "box": [
+                [
+                    441.0,
+                    894.0
+                ],
+                [
+                    610.0,
+                    894.0
+                ],
+                [
+                    610.0,
+                    906.0
+                ],
+                [
+                    441.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "[77] E. Biham, New types of cryptanalytic attacks using related keys,",
+            "confidence": 0.9890594482421875,
+            "box": [
+                [
+                    416.0,
+                    906.0
+                ],
+                [
+                    749.0,
+                    906.0
+                ],
+                [
+                    749.0,
+                    920.0
+                ],
+                [
+                    416.0,
+                    920.0
+                ]
+            ]
+        },
+        {
+            "text": "J. Cryptol., vol. 7, no. 4, pp. 229246, Dec. 1994.",
+            "confidence": 0.9981081485748291,
+            "box": [
+                [
+                    440.0,
+                    917.0
+                ],
+                [
+                    653.0,
+                    917.0
+                ],
+                [
+                    653.0,
+                    932.0
+                ],
+                [
+                    440.0,
+                    932.0
+                ]
+            ]
+        },
+        {
+            "text": "[57]C. A. Lara-Nino, A. Diaz-Perez, and M. Morales-Sandoval, FPGA",
+            "confidence": 0.9852940440177917,
+            "box": [
+                [
+                    56.0,
+                    928.0
+                ],
+                [
+                    385.0,
+                    928.0
+                ],
+                [
+                    385.0,
+                    940.0
+                ],
+                [
+                    56.0,
+                    940.0
+                ]
+            ]
+        },
+        {
+            "text": "[78] G. Piret, T. Roche, and C. Carlet, PicaroA block cipher allowing",
+            "confidence": 0.980118453502655,
+            "box": [
+                [
+                    415.0,
+                    929.0
+                ],
+                [
+                    749.0,
+                    930.0
+                ],
+                [
+                    749.0,
+                    945.0
+                ],
+                [
+                    415.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "text": "based assessment of Midori and GIFT lightweight block ciphers,",
+            "confidence": 0.9942730665206909,
+            "box": [
+                [
+                    77.0,
+                    940.0
+                ],
+                [
+                    385.0,
+                    940.0
+                ],
+                [
+                    385.0,
+                    954.0
+                ],
+                [
+                    77.0,
+                    954.0
+                ]
+            ]
+        },
+        {
+            "text": "in Proc. 20th Int. Conf. Inf. Commn.Secur (ICICS) Cham,",
+            "confidence": 0.9130327105522156,
+            "box": [
+                [
+                    77.0,
+                    952.0
+                ],
+                [
+                    386.0,
+                    952.0
+                ],
+                [
+                    386.0,
+                    967.0
+                ],
+                [
+                    77.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "efficient higher-order side-channel resistance, in Proc. Int. Conf. Appl.",
+            "confidence": 0.9887842535972595,
+            "box": [
+                [
+                    442.0,
+                    944.0
+                ],
+                [
+                    748.0,
+                    944.0
+                ],
+                [
+                    748.0,
+                    955.0
+                ],
+                [
+                    442.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "Switzerland: Springer, Oct. 2018, pp. 745755. [Online]. Available:",
+            "confidence": 0.993972659111023,
+            "box": [
+                [
+                    78.0,
+                    964.0
+                ],
+                [
+                    388.0,
+                    964.0
+                ],
+                [
+                    388.0,
+                    979.0
+                ],
+                [
+                    78.0,
+                    979.0
+                ]
+            ]
+        },
+        {
+            "text": "Cryptogr: Netw. Secur: Berlin, Germany: Springer, 2012, pp. 311328.",
+            "confidence": 0.9751309156417847,
+            "box": [
+                [
+                    441.0,
+                    955.0
+                ],
+                [
+                    740.0,
+                    955.0
+                ],
+                [
+                    740.0,
+                    970.0
+                ],
+                [
+                    441.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "https:/link.springer.com/chapter/10.1007/978-3-030-01950-1_45",
+            "confidence": 0.9849870800971985,
+            "box": [
+                [
+                    77.0,
+                    977.0
+                ],
+                [
+                    357.0,
+                    976.0
+                ],
+                [
+                    357.0,
+                    991.0
+                ],
+                [
+                    77.0,
+                    992.0
+                ]
+            ]
+        },
+        {
+            "text": "[79] B. Gerard, V. Grosso, M. Naya-Plasencia, and F.-X. Standaert, Block",
+            "confidence": 0.9754568934440613,
+            "box": [
+                [
+                    417.0,
+                    969.0
+                ],
+                [
+                    749.0,
+                    969.0
+                ],
+                [
+                    749.0,
+                    980.0
+                ],
+                [
+                    417.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "text": "ciphers that are easier to mask: How far can we go? in Proc. Int. Work-",
+            "confidence": 0.9820401668548584,
+            "box": [
+                [
+                    441.0,
+                    980.0
+                ],
+                [
+                    748.0,
+                    980.0
+                ],
+                [
+                    748.0,
+                    995.0
+                ],
+                [
+                    441.0,
+                    995.0
+                ]
+            ]
+        },
+        {
+            "text": "[58] A. Adomnicai, Z. Najm, and T. Peyrin, Fixslicing: A new gift represen-",
+            "confidence": 0.9722416400909424,
+            "box": [
+                [
+                    53.0,
+                    992.0
+                ],
+                [
+                    384.0,
+                    992.0
+                ],
+                [
+                    384.0,
+                    1006.0
+                ],
+                [
+                    53.0,
+                    1006.0
+                ]
+            ]
+        },
+        {
+            "text": "shop Cryptograph. Hardw. Embedded Syst. Berlin, Germany: Springer,",
+            "confidence": 0.9911963939666748,
+            "box": [
+                [
+                    442.0,
+                    994.0
+                ],
+                [
+                    748.0,
+                    994.0
+                ],
+                [
+                    748.0,
+                    1005.0
+                ],
+                [
+                    442.0,
+                    1005.0
+                ]
+            ]
+        },
+        {
+            "text": "tation, in Proc. IACR, 2020, p. 412",
+            "confidence": 0.9966486096382141,
+            "box": [
+                [
+                    78.0,
+                    1006.0
+                ],
+                [
+                    234.0,
+                    1006.0
+                ],
+                [
+                    234.0,
+                    1018.0
+                ],
+                [
+                    78.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "2013, pp. 383399.",
+            "confidence": 0.9988597631454468,
+            "box": [
+                [
+                    441.0,
+                    1006.0
+                ],
+                [
+                    524.0,
+                    1006.0
+                ],
+                [
+                    524.0,
+                    1019.0
+                ],
+                [
+                    441.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "28190",
+            "confidence": 0.9999682307243347,
+            "box": [
+                [
+                    49.0,
+                    1035.0
+                ],
+                [
+                    80.0,
+                    1035.0
+                ],
+                [
+                    80.0,
+                    1047.0
+                ],
+                [
+                    49.0,
+                    1047.0
+                ]
+            ]
+        },
+        {
+            "text": "VOLUME 9, 2021",
+            "confidence": 0.9843501448631287,
+            "box": [
+                [
+                    683.0,
+                    1036.0
+                ],
+                [
+                    748.0,
+                    1036.0
+                ],
+                [
+                    748.0,
+                    1047.0
+                ],
+                [
+                    683.0,
+                    1047.0
+                ]
+            ]
+        }
+    ],
+    "structure": [
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "table",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "other",
+        "paragraph",
+        "other",
+        "other",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "other",
+        "other",
+        "other"
+    ]
+}
