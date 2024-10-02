@@ -1,0 +1,52 @@
+V. A. Thakor et al.: Lightweight Cryptography Algorithms for Resource-Constrained IoT Devices
+TABLE 1. List of Abbreviations and Acronyms.
+B. SECURITY CONCERNS OF RESOURCE-CONSTRAINED
+IoT DEVICES: CHALLENGES AND SECURITY
+REQUIREMENTS
+When billions of smart devices (connected devices) work-
+ing in a diverse set of platforms, especially when shifting
+from server to sensors, gives birth to various unprecedented
+challenges to their owners or users [6] such as security &
+privacy, interoperability, longevity & support, technologies
+and many more [8]. Also, IoT devices are easily accessible
+and exposed to many security attacks [9] as they interact
+directly with the physical world to collect conﬁdential data or
+to control physical environment variables, which makes them
+an attractive target for attackers [10]. All these circumstances
+make cybersecurity as a major challenge in IoT devices with
+demands of conﬁdentiality, data integrity, authentication &
+authorization, availability, privacy & regulation standards and
+regular system updates [8]. The Figure 2 depicts IoT security
+challenges and its security requirements.
+In this scenario, cryptography could be one of the effec-
+tive measures to guarantee conﬁdentiality, integrity and
+authentication & authorization of the traversing data through
+IoT devices [7]. It could also be a solution to secure the
+stored or traversing data over the network. However, con-
+ventional PC based cryptography algorithms do not ﬁt into
+resource-constrained IoT devices due to their high resource
+demands. A lighter version of these solutions, lightweight
+FIGURE 2. IoT Security Challenges.
+FIGURE 3. Key Challenges with Conventional Cryptography.
+cryptography, can address these challenges to secure the com-
+munication in resource-constrained IoT devices.
+C. KEY CHALLENGES WHILE IMPLEMENTING
+CONVENTIONAL CRYPTOGRAPHY IN
+RESOURCE-CONSTRAINED IoT DEVICES
+The key challenges while implementing conventional cryp-
+tography in IoT devices (Figure 3) are as follows [11]:
+• Limited memory (registers, RAM, ROM)
+• Reduced computing power
+• Small physical area to implement the assembly
+• Low battery power (or no battery)
+• Real-time response
+Most of the IoT devices (such as RFIDs and sensors) are small
+in size and are equipped with limited resources such as small
+memory (RAM, ROM) to store and to run the application,
+low computing power to process the data, limited battery
+power (or no battery in case of passive RFID tags) [6], small
+physical area to ﬁt-in the assembly [6], [11]. Moreover, most
+of the IoT devices deal with the real-time application where
+quick and accurate response with essential security using
+28178
+VOLUME 9, 2021
